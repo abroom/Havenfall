@@ -1,0 +1,32 @@
+Inn stay (per day)
+  Squalid           7 CP
+  Poor              1 SP
+  Modest            5 SP
+  Comfortable       8 SP
+  Wealthy           2 GP
+  Aristocratic      4 GP
+  Royalty         100 GP
+
+Coach cab
+  Between towns     3 CP per mile
+  Within a city     1 CP
+Hireling
+  Skilled           2 GP per day
+  Untrained         2 SP per day
+Messenger           2 CP per mile
+Road or gate toll   1 CP
+Ship’s passage      1 SP  per mile
+
+Skilled Hirelings
+  Anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill)
+    a mercenary, artisan, scribe, and so on.
+  The pay shown is a minimum; some expert hirelings require more pay.
+
+Spellcasting service
+  First you must find a spellcaster (typically temples)
+  Cost is 100 * spell level + material components
+  Spellcaster Availability (usually)    Can Casts Spells of Level:
+    Villages                              1 - 2
+    Towns                                 1 - 4
+    Cities                                1 - 5
+    Alexandria (City)                     1 - 6

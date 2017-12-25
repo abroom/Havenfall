@@ -1,0 +1,31 @@
+A barrel contains 42 gallons.
+A bottle contains  2 gallons.
+A bottle contains 20 shots.
+A gallon contains  8 mugs.
+A mug    contains  1 pint.
+
+Ale       Common    Fine    Premium
+  Barrel    8 GP     40 GP   200 GP
+  Gallon    2 SP      1 GP     5 GP
+  Mug       4 CP      2 SP     1 GP
+Spirit    Common    Fine    Premium
+  Shot      1 SP      1 GP    10 GP
+  Bottle   15 SP     15 GP   150 GP
+Wine
+  Common (pitcher)    2 SP
+  Fine (bottle)      10 GP
+  Premium (bottle)  100 GP
+
+Banquet (per person) 10 GP
+Bread, loaf           2 CP
+Cheese, hunk          1 SP
+Meat, chunk           3 SP
+
+Meals (per day)
+  Squalid             3 CP
+  Poor                6 CP
+  Modest              3 SP
+  Comfortable         5 SP
+  Wealthy             8 SP
+  Aristocratic        2 GP
+  Royalty            50 GP

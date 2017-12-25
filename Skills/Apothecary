@@ -1,0 +1,132 @@
+All Potinos and Poisons way 1/2 lb
+
+Potions
+  Name                      Rarity          Special Ingredients
+    Advantage*
+      Saving Throws           Uncommon
+      Skill Checks            Uncommon
+      Attack Rolls            Rare
+      Damage Rolls            Very Rare
+    Animal Friendship         Uncommon        Spell
+    Antitoxin*                Common
+    Clairvoyance              Rare            Spell
+    Climbing                  Common
+    Diminution                Rare            Spell
+    Flying                    Very Rare
+    Gaseous Form              Rare            Spell
+    Giant Strength
+      Hill Giant              Uncommon
+      Frost Giant             Rare
+      Stone Giant             Rare
+      Fire Giant              Rare
+      Cloud Giant             Very Rare
+      Storm Giant             Legendary
+    Growth                    Uncommon        Spell
+    Healing
+      Standard                Common
+      Greater                 Uncommon
+      Superior                Rare
+      Supreme                 Very Rare
+    Heroism                   Rare            Spell
+    Invisibility              Very Rare
+    Mind Reading              Rare            Spell
+    Resistance                Uncommon
+    Speed                     Very Rare       Spell
+    Water Breathing           Uncommon
+  Do not limit yourself to the above list. If you have an idea, pitch it to the DM. DM's discretion for balance.
+  Advantage*:
+    Gives you advantage on certain rolls. For saving throws and skill checks, it is for a single ability or skill (similar to potions of resistance).
+  Antitoxin*:
+    Found in the Adventuring Gear section.
+
+Poisons
+  Name                      Rarity          Special Ingredients
+    Assassin's Blood          Uncommon
+    Basic Poison*             Common
+    Burnt Othur Fumes         Rare
+    Crawler Mucus             Uncommon        Monster: Crawler
+    Drow Poison               Uncommon        No Sunlight
+    Essence of Ether          Rare
+    Malice                    Rare
+    Midnight Tears            Very Rare
+    Oil of Taggit             Rare
+    Pale Tincture             Rare
+    Potion of Poison*         Uncommon
+    Purple Worm Poison        Legendary       Monster: Purple Worm
+    Serpent Venom             Uncommon        Monster: Giant Poisonous Snake
+    Topor                     Rare
+    Truth Serum               Uncommon
+    Wyvern Poison             Very Rare       Monster: Wyvern
+
+  Do not limit yourself to the above list. If you have an idea, pitch it to the DM. DM's discretion for balance.
+  Poisons are illeagal and must be bought on the black market.
+  Basic Poison*:
+    Found in the Adventuring Gear section.
+  Potion of Poison*:
+    Description is found in the Potions section
+
+Availability & Prices
+  Rarity        Availability*          Prices*
+    Common        Villages              50 GP
+    Uncommon      Towns                 100 GP
+    Rare          Cities                500 GP
+    Very Rare     Alexandria (City)     1000 GP
+    Legendary     Treasure              N/A
+  *Availability:
+    Poisons are illegal and must be bought on the black market.
+    You may get lucky and your requested item which is not usually available at the current store is in stock.
+      The DM can choose to roll a d100 against the probility of it being in stock.
+      Stock percentage change: 50%, 35%, 20% (DMs discretion).
+      Only 1 request can be made.
+    You can always order an item.
+      It will take time (travel time to and from the closest place where the item is available).
+      The price is doubled.
+  *Prices:
+    Items are cheaper in places of higher availability by 10% per availability.
+      For instance, a common potion in Alexandria costs 35 GP compared to the 50 GP from the village apothecary.
+      An Uncommon potion costs 90 GP in a City, and costs 80 GP in Alexandria.
+
+Black Market
+  Only common items are stocked, all other items must roll a d100 to check stock.
+  Stock percentages: 75%, 50%, 25% (DMs discretion)
+  3 requests can be made.
+  Potions cost double.
+
+Crafting
+  A Herbalism Kit is required for Poitions.
+  A Poisoners Kit is required for Poisons.
+  When crafting potions that cast a spell, you or a willing assistant (aka someone in your party) must be able to cast that spell. A spell scroll may also be used.
+  An alchoholic spirit must be used for a base, and specific herbs must be gathered.
+    Potion/Poison Rarity      Spirit Quality    Herb Harvesting DC
+      Uncommon                  Common            10
+      Common                    Common            13
+      Rare                      Fine              16
+      Very Rare                 Fine              19
+      Legendary                 Premium           22
+  Any additional ingredients must be acquired. Harvesting DC from Monsters is 10 + CR/2.
+  Then, it is time to brew, which is affected by your brewing environment.
+    Potion/Poison Rarity      Base Brewing DC
+      Uncommon                  10
+      Common                    15
+      Rare                      20
+      Very Rare                 25
+      Legendary                 30
+    Brewing Conditions        DC Modifier
+      Outdoors (Bad Weather)    -10
+      Outdoors (Good Weather)   -5
+      Indoors (Dirty)           -3
+      Indoors (Clean)           -2
+      Apothecary Workstation     0
+      Private Apothecary Lab
+        Basic                   +1
+        Advanced                +2
+        Premium                 +3
+        State of the Art        +5
+    Critical Successes allow you to prepare a potion you would not otherwise be able to or if you are able, then you gain an additional potion.
+    Critical Failures (including negative Brew Check rolls) result in an explosion. You take half damage from a success. A failure results in full damage, and you are affected by the effects of the potion or poison.
+      Potion/Poison Rarity      DEX Saving Throw DC   Damage (Force)
+        Uncommon                  15                     2d10
+        Common                    18                     4d10
+        Rare                      21                     6d10
+        Very Rare                 24                     8d10
+        Legendary                 27                    10d10

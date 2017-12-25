@@ -1,0 +1,31 @@
+Superior Armor (+1) cost the base armor price +1000 GP and can only be bought in cities.
+Master Armor (+2) cost the base armor price +5000 GP and can only be bought in Alexandria.
+
+You can wear armor that does not fit properly, but you cannot add your DEX modifier.
+For heavy armor, you are also slowed by an additional 10ft.
+Armor can be fitted for half the armor cost.
+
+It takes time to don and doff armor. If you sleep in armor, there is a chance of exhaustion (d100).
+  Category      Don         Doff          Exhaustion Chance
+  Light Armor     1 minute    1 minute      25%
+  Medium  Armor   5 minutes   1 minute      40%
+  Heavy armor    10 minutes   5 minutes     55%
+  Shield          1 action    1 action
+
+Light Armor                                                   STEALTH       STRENGTH REQUIREMENT
+  Padded             5 GP   11 + Dex modifier          8 lb   Disadvantage
+  Leather           10 GP   11 + Dex modifier         10 lb
+  Studded leather   45 GP   12 + Dex modifier         13 lb
+Medium Armor
+  Hide              10 GP   12 + Dex modifier (max 2) 12 lb
+  Chain shirt       50 GP   13 + Dex modifier (max 2) 20 lb
+  Scale mail        50 GP   14 + Dex modifier (max 2) 45 lb   Disadvantage
+  Breastplate      400 GP   14 + Dex modifier (max 2) 20 lb
+  Half plate       750 GP   15 + Dex modifier (max 2) 40 lb   Disadvantage
+Heavy Armor
+  Ring mail         30 GP   14                        40 lb   Disadvantage    
+  Chain mail        75 GP   16                        55 lb   Disadvantage    Str 13
+  Splint           200 GP   17                        60 lb   Disadvantage    Str 15
+  Plate          1,500 GP   18                        65 lb   Disadvantage    Str 15
+Shield
+  Shield            10 GP   +2                         6 lb
