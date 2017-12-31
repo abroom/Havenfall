@@ -1,0 +1,105 @@
+Paladin Level 16
+STR   DEX   CON   INT   WIS   CHA
+ 18    10    16     9    12    20
+ +4     0    +3    -1    +1    +5
+
+Disadvantage: Stealth
+Proficiencies: WIS(+6) CHA(+10) Insight(+6) Religion(+4)
+
+HP: 148
+AC: 20: Plate + Shield
+
+Holy Symbol: Emblem of Lionnell
+
+Longsword +2:
+  Attack: +11
+  Damage: 1d8 + 6 Slash
+Mace +2:
+  Attack: +11
+  Damage: 1d6 + 6 Bludgeoning
+
+Divine Sense: [(1 + CHA Modifier) Per Long Rest]
+  Until end of your next turn
+  you know the location of any Celestial, Fiend or Undead
+  within 60ft of you and is not behind total cover.
+  You know the monster type of any being whose presence you sense, but not its identity
+  Also within the radius,
+  you detect the presence of any place or object that has been consecreated or desecrated
+  as with the Hallow spell.
+Lay On Hands:
+  HP Healing Pool: Paladin LVL * 5
+  As an action, can touch a creature to heal (using healing healing pool points)
+  No effect on undead or constructs
+Fighting Style: Protection
+  When a creature you can see attacks a target other than you within 5 feet of you
+  and you are wielding a shield,
+  then you can use your reaction to impose disadvantage on the attack roll.
+Divine Smite:
+  When you hit a creature with a melee weapon attack,
+  you can expend one paladin spell slot to deal additional radiant damage
+  2d8 damage for 1st-level spell slot
+  plus 1d8 for each spell level higher
+  to a maximum of 5d8.
+  Damage increases by 1d8 if the target is undead or a fiend.
+Divine Health: Immune to disease.
+Sacred Oath: Oath of Devotion
+  Channel Divinity:
+    Sacred Weapon:
+      As an action, imbue one weapon with positive energy
+      For 1 minute, add CHA modifier to attack rolls made with imbued weapon
+      Weapon emits bright light in 20ft radius. and dim light 20ft further.
+      Weapon becomes magical if not already magical.
+    Turn the Unholy:
+      Present your holy symbol and speak a prayer censuring fiends and undead
+      Each fiend or undead that can see or hear you within 30ft must make a WIS saving throw
+      If failed, it is turned for 1 min or until it takes damage
+      Turned creature must spend its turns dashing as far away from you as it can
+      and cannot willing move to space within 30ft of you
+      and cannot take reactions.
+      If there is nowhere for the creature to move, it can Dodge.
+  Aura of Devotion: you and friendly creatures within 10 ft of you cannot be charmed while you are concious
+  Purity of Spirit: You are always under the effects of Protection From Evil And Good
+Extra Attack: 2 attacks are made during the attack action
+Aura of Protection:
+  Whenever you or a friendly creature within 30ft
+  make a saving throw,
+  the creature adds your CHA modifier to the saving throw.
+  You must be concious for this aura.
+Aura of Courage: You and friendly creatures within 30ft can't be frightened while you are conscious.
+Improved Divine Smite:
+  Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use Divine Smite with an attack, you add this damage to the extra damage of Divine Smite.
+Cleansing Touch: [(CHA Modifier) Per Long Rest]
+  You can use your action to end one spell on yoursel for or on one willing creature that you touch.
+
+Spellcasting:
+    1st  2nd  3rd  4th  5th
+     4    3    3    2
+  Attack: +10
+  Save DC: 18
+  Oath Spells:
+    Protection from Evil and Good
+    Sanctuary
+    Lesser Restoration
+    Zone of Truth
+    Beacon of Hope
+    Dispel Magic
+    Freedom of Movement
+    Guardian of Faith
+  Prepared Spells: 13
+    Branding Smite
+    Compelled Duel
+    Divine Favor
+    Shield of Faith
+    Revivify
+    Crusader's Mantle
+    Daylight
+    Blinding Smite
+    Remove Curse
+    Staggering Smite
+    Death Ward
+    Aura of Life
+    Banishment
+
+Items:
+  1 Supreme Healing Potion
+  1 Scroll: Level 4: Dimension Door 

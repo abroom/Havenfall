@@ -1,0 +1,153 @@
+Gargoyle      MM 140
+Hook Horror   MM 189
+Duergar       MM 122
+
+Darren Darkfoot
+  Husband of Sharren.
+  Dwarf proprietor of the Museum. Clean shaven and wears styled clothing. Seems a Dwarf that has grown up primarily in a Human Kingdom.
+
+Sharren Darkfoot
+  Dwarf Wife of Darren.
+  Was working late at the Museum, studying the recently uncovered chambers.
+
+Jon Redhorn
+  Elvish head of security.
+  Was patrolling down below in the recently uncovered chambers.
+
+Gary Gardder
+  Other security guard, he an older human who was patrolling the top level.
+
+Deurgar King
+  He is looking for a wife and more slaves to rebuild his kingdom that they recently moved into after being forced out from their last kingdom (lost many of their soldiers).
+
+----------------------------------------
+
+Porky has work, a recovery payjob. May end being a bit of pest control as well. Standard pay for their pay: 2 GP per Tattered Cloak. And anything else they find on the job.
+  Darren Darkfoot wants his wife found. Sounds like she went missing when she was working overnight at the Darkfoot Museum. He's waiting for you there.
+
+Travel to Darkfoot Museum.
+
+Darkfoot Museum
+  They are met by Darren Darkfoot who meets them on the steps outside. He asks, "Are you the Tattered Cloaks I sent for?"
+
+  Darkfoot: "You are. Thank Lionnel. Good, I wanted to meet you out front, so I could waive our 2 copper fee."
+  Darkfoot: "My wife was researching these ruins in the basement last night. Now she's missing, so I hired you. My Head of Security was with her at the time, but he too has disappeared. Gary *he points to a a Human Guard* was on duty last night and said they never left. *points to a stairwell* Those stairs lead downstairs where Sharren was excavating the ruins."
+  
+  You enter the museum and Darren waves off a ticket salesman.
+
+  The Upper level of this place was the first part of the Dwarven city here to be renovated. There's a gift shop. There are rooms which seem describe aspects of the daily lives of the Dwarves that lived here before the Humans took it over.
+    Gary said he heard some screaming from below. But everytime he would go check and called out to Jon and Sharren to ask what is wrong. Sharren would reply, "Everything's good. Just researching the new furniture down here. Keep patrolling upstairs, we have it handled here." He checked three times and got the same answer, and Miss Sharren was sounding more agitated each time. So he didn't ask the fourth time or the fifth time.
+
+  The Lower Level has been recently excavated. During the Age of War, Humans collapsed most of the tunnels of the city to seal it off. This area appears to have once been a Dwarven hotel strip.
+    Investigating the area
+      DC  Effect
+       0   You find scratch marks the lead right up to and seem to go under part of the wall.
+      10   Coin purse containing Individual Treasure on a Bedside Table
+      15   Hidden switch for a door (otherwise they must knock it down or mine through it)
+      20   You notice the closest bed to the wall has recently been used.
+
+  Theres a hidden Dwarven staircase going down. The scratch marks continue. After 5 minutes of walking down, it opens into some the Dwarven City Ruins (regular terrain, NOT difficult). The scratch marks end.
+
+  Nearby there are wagon tracks that lead further into the ruins. A shriek from some Underdark monster echoes around the chamber.
+
+----------------------------------------
+
+  [Make sure the PCs know that the tracks far into the distance]
+  Tracking check determines how fast they travel. Failure means they have a hard time picking up on the trail and basically only travel a hundred feet.
+    Tracking
+      DC  Effect
+      10   Max Pace: Slow
+      15   Max Pace: Normal
+      20   Max Pace: Fast
+
+  The tracks run for [6 Miles]. They lead into a dwarven building which has light coming from it.
+
+  The Guard Post
+    [2 Duergar, 1 Death Dog MM 122, 321]
+    1 Duergar and 1 Death Dog are on watch outside the Guard Post.
+    1 Duergar is resting inside, eating.
+    If a Duergar is captured alive, he will say they heard some screaming echoing through the chambered. So they went up and found themselves a couple of Surface Worlders. Should be good slaves for their King.
+
+  There is an obvious travelled route this area. It appears the tracks follow it as well.
+
+----------------------------------------
+
+  After [3 Miles] the group comes across the Slave Mine.
+
+  Slave Mine
+    [1 Duergar, 1 Hook Horror MM 122, 189]
+      [The Hook Horror is chained up (like 20 chains connected to a collar locked around its foot) and must be freed by the Duergar in order for him to have it as an Ally in Combat]
+      [The Duergar can use his action to whip the Hook Horror and make it take the Dash, Disengage, or Attack on the Duergar's Turn]
+    Slaves from different Underdark races are forced to mine for iron here. A Dwarf patrols the area, they see him enter a mine entrance. Then they will hear some shouting, then they will see an Elf in dirty but still pretty new clothes get dragged out, he is brought close to the Hook Horror which starts swinging at him and trying to bite him. He starts screaming "I'll Work I'll Work" then screams it again in Dwarvish. He is then escorted back into the mine. And the Dwarf goes on patrol again.
+    Jon Redhorn is in chains here. He will tell the group the men took Sharren on ahead. He will ask to accompany the group to rescue Sharren.
+      He is a Lvl 1 Fighter without armor. He will ask to borrow a bow or crossbow. Otherwise he will scavenge and use a Duergar Weapon.
+      If the party presses and convinces him, he will admit that Sharren and he are lovers. He must rescue her.
+    The Slaves are very weak (would be fodder in a battle and they know it).
+    Sally, a Drow Slave, will ask for food. [If they feed her] She will tell them that she used to clean the Fortress' Balcony. She noticed that there was a ladder going by on a nearby roof. The roof is seperated by a 15ft gap which was too far to jump. Otherwise she may have been able to escape (a captured and threatened Duergar will also reveal this info).
+
+  Another [3 Miles] before the party comes into view of the Fortress.
+  The Fortress is a large building, 5 stories high, but just one level (high ceilings) 200ft front by 100 ft deep.
+  Most of the buildings around collapsed and broken down, except for one which still stands off to the side.
+
+----------------------------------------
+
+  Fortress Front
+    [3 Duergar MM 122]
+    In front of Fortress in a courtyard 200ft by 20ft, 1 Duergar partrols the courtyard, 1 stands on guard by the entrance, 1 stands on sentry on the balcony above.
+    The courtyard has many gargoyle statues which are proper statues.
+
+  Rooftop Route
+    [2 Gargoyles MM 140]
+    The rooftop can be reached from the top of the one still standing side building. On the rooftop, two massive stone gargoyle statues stare down at the entrance with shrieking, toothy maws. The ladder going up has collapsed. It is a hard climb up 45 ft to reach the top [DC 15 climb up if they just try to use the (amount they fail is amount of fall damage they receive)]
+    The ladder comes out on the Rooftop, where the two stone gargoygles are, it is a flat square 30ft x 30ft.
+
+    The "small jump" to the Fortress balcony is 10ft accross and 5 ft up. [15 ft long jump, otherwise a jump check is required DC 15]
+      Fails, mean grabbing the ledge (and having to pull oneself up)
+      Critical fails, mean grabbing the ledge and start to slip and begin to fall (unless someone helps them)
+    You can see the Duergar sentry from here (considered to be in 1/2 cover on this rooftop)
+    After half the party has jumped across, the gargoyles will rumble and come to life. They will release a gravely roar and attack the party.
+    There are also gargoyle statues on the balcony which are proper statues.
+
+  Fortress Interior
+    Lobby
+      [2 Duergar MM 122]
+      The stairs to the balcony.
+      Door that leads to a kitchen and dining hall (simple rooms, 2d4 rations here)
+      Door that leads to servent quarters and bathroom (simple rooms)
+      Door that leads the "King's Court".
+        2 Duergar stand guard on either side of this door.
+
+    King's Court
+      [Duergar King Max Health with a Flaming Warhammer MM 122]
+        Flaming Warhammer has the same stats as regular warhammer.
+        If attuned
+          A bonus action can be used to ignite the warhammer, giving it +1 FIRE DMG.
+          After the ignited warhammer hits and deals its FIRE DMG, then the flames go out (must be reignited).
+      [Duergar King's Guard Max Health MM 122]
+      A stone throne, King is seated there.
+        King has a key in his pocket for the Safe in the King's Chambers.
+        When the King is at 1/2 health, he will dash to the safe and drink the potion locked away.
+      King's Guard is standing to his side.
+      There is a Locked Door that leads into the King's Chambers.
+
+    King's Chambers
+      [Sharren Dankfoot]
+      Bedroom & Bathroom simple rooms
+      Sharren
+        Using the commotion as a distraction, she flees the Fortress. The party will need to stop her in some manner (if Jon is present and alive, he will call to her). Otherwise she will be lost in the Underdark.
+        If Jon is present, they will be happy, and Jon promises to reward them further (1 GP each).
+          If they blackmail the couple, Sharren will also use her savings (+1GP totalling: 2 GP each)
+        If Jon is not present, she will insist the group find him. Otherwise, she's not going.
+        If she finds out Jon is dead, she will cry.
+        
+      Locked safe in the room [DC 20 or key on the Dwarf King] Inside is a Greater Healing potion.
+
+----------------------------------------
+
+  Return to the Surface
+    Must head to the surface [12 Miles]
+    At the top, Darren upon seeing Sharren rescued will happy. He will pay the 2 GP per PC. And then comment he is so happy that Sharren is back and the excavation can continue without falling too far behind schedule. She will have to work longer hours of course to make up for time lost.
+    If Sharren is not rescued, he will not pay.
+    If Jon is rescued, he will tell Jon he is fired for failing at being a Security Guard. Sharren will fight for his job. Darren will tell her to go do her job and leave his job to himself. Sharren will then curse Darren and leave with Jon. Darren will then relent, Sharren will deny, he will run after begging his wife to come back, at least until he can hire a replacement. Sharren will tell him about her relationship with Jon. They then start shouting at each other and Jon joins in as they continue into the distance...
+
+  The Party should determine which Inn they want to stay at. Check to see if they send or leave a message for Reggie.

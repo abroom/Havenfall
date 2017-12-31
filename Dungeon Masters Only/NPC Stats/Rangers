@@ -1,0 +1,335 @@
+Ranger Level 1
+  STR   DEX   CON   INT   WIS   CHA
+   10    16    14    12    16     9
+    0    +3    +2    +1    +3    -1
+  Proficiencies: STR(+2) DEX(+5) Perception(+5) Stealth(+5) Survival(+5)
+  HP: 12
+  AC: 14: Leather
+  Shortsword:
+    Attack: +5
+    Damage: 1d6 + 3 Pierce (no +3 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +5
+    Damage: 1d4 + 3 Pierce (no +3 when used in two-weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +5
+    Damage: 1d8 + 3 Pierce
+  Favored Enemy: Beast [Can Vary On Location]
+  Natural Explorer:
+    Favored Terrain: Forest [Can Vary On Loacation]
+    Double Proficiency Bonus when in Favored Terrain
+
+Ranger Level 2
+  HP: 20
+  Shortsword:
+    Attack: +5
+    Damage: 1d6 + 3 Pierce (no +3 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +5
+    Damage: 1d4 + 3 Pierce (no +3 when used in 2nd attack for two-weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +7
+    Damage: 1d8 + 3 Pierce
+  Fighting Style: Archery
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       2
+    Attack: +5
+    Save DC: 13
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+
+Ranger Level 3
+  HP: 28
+  Ranger Archetype: Hunter
+    Hunter's Prey: Colossus Slayer: [Once Per Turn] +1d8 damage if attack hits creature that is below max hp
+  Primeval Awareness:
+    Use one action and expend a spell slot
+    Sense Aberations, Celestials, Dragons, Elementals, Feys, Fiends, Undead
+    Are present within 1 Mile (or 6 Miles if Favorite Terrain) [Does not reveal location or number]
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       3
+    Attack: +5
+    Save DC: 13
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+
+Ranger Level 4
+  STR   DEX   CON   INT   WIS   CHA
+   10    18    14    12    16     9
+    0    +4    +2    +1    +3    -1
+  Proficiencies: DEX(+6) Stealth(+6)
+  HP: 36
+  AC: 15: Leather
+  Shortsword:
+    Attack: +6
+    Damage: 1d6 + 4 Pierce (no +4 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +6
+    Damage: 1d4 + 4 Pierce (no +4 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +6
+    Damage: 1d8 + 4 Pierce
+
+Ranger Level 5
+  Proficiencies: STR(+3) DEX(+7) Perception(+6) Stealth(+7) Survival(+6)
+  HP: 44
+  Shortsword:
+    Attack: +7
+    Damage: 1d6 + 4 Pierce (no +4 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +7
+    Damage: 1d4 + 4 Pierce (no +4 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +7
+    Damage: 1d8 + 4 Pierce
+  Extra Attack: 2 attacks are made during the attack action
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    2
+    Attack: +6
+    Save DC: 14
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+
+Ranger Level 6
+  HP: 52
+  Favored Enemy: Beast, Human, Orc [Can Vary On Location]
+  Natural Explorer:
+    Favored Terrain: Forest, Grassland [Can Vary On Loacation]
+    Double Proficiency Bonus when in Favored Terrain
+
+Ranger Level 7
+  HP: 60
+  Ranger Archetype: Hunter
+    Defensive Tactics: Escape the Horde: Opportunity attacks against you have disadvantage
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3
+    Attack: +6
+    Save DC: 14
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+
+Ranger Level 8
+  STR   DEX   CON   INT   WIS   CHA
+   10    18    14    12    18     9
+    0    +4    +2    +1    +4    -1
+  Proficiencies: Perception(+7) Survival(+7)
+  HP: 68
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3
+    Attack: +7
+    Save DC: 15
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+  Land's Stride
+    Nonmagical difficult terrain costs no extra movement
+    Can pass through nonmagical hazardous plants without taking damage
+    Advantage on Saving Throws against plants that are magically created to impede movement(i.e. Entangle)
+
+Ranger Level 9
+  Proficiencies: STR(+4) DEX(+8) Perception(+8) Stealth(+8) Survival(+8)
+  HP: 76
+  Shortsword:
+    Attack: +8
+    Damage: 1d6 + 4 Pierce (no +4 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +8
+    Damage: 1d4 + 4 Pierce (no +4 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +8
+    Damage: 1d8 + 4 Pierce
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    2
+    Attack: +8
+    Save DC: 16
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+
+Ranger Level 10
+  HP: 84
+  Natural Explorer:
+    Favored Terrain: Forest, Grassland, Underdark [Can Vary On Loacation]
+    Double Proficiency Bonus when in Favored Terrain
+  Hide in Plain Sight
+    Can spend 1 minute creating camoflage from fresh mud, dirt, plants, etc.
+    Can try to hide by pressing against a solid surface: +10 on Stealth Checks when not moving or taking action
+    Must camoflage again after moving or taking action
+
+Ranger Level 11
+  HP: 92
+  Ranger Archetype: Hunter
+    Multiattack: Volley: Use action to make ranged attack against any number of creatures within 10 ft of a point you can see within weapon's range. You must have ammunition and make a seperate attack roll for each target.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3
+    Attack: +8
+    Save DC: 16
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+      Conjure Barrage
+
+Ranger Level 12
+  STR   DEX   CON   INT   WIS   CHA
+   12    18    14    12    18     9
+   +1    +4    +2    +1    +4    -1
+  Proficiencies: STR(+5)
+  HP: 100
+
+Ranger Level 13
+  Proficiencies: STR(+6) DEX(+9) Perception(+9) Stealth(+9) Survival(+9)
+  HP: 108
+  Shortsword:
+    Attack: +9
+    Damage: 1d6 + 4 Pierce (no +4 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +9
+    Damage: 1d4 + 4 Pierce (no +4 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +9
+    Damage: 1d8 + 4 Pierce
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    1
+    Attack: +9
+    Save DC: 17
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+      Conjure Barrage
+      Freedom of Movement
+
+Ranger Level 14
+  HP: 116
+  Favored Enemy: Beast, Human, Orc, Dragon [Can Vary On Location]
+  Vanish: Can use Hide action as a bonus. Cannot be tracked by nonmagical means unless you choose to leave a trail
+
+Ranger Level 15
+  HP: 124
+  Ranger Archetype: Hunter
+    Superior Hunter's Defense: Uncanny Dodge: When an attack you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2
+    Attack: +9
+    Save DC: 17
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+      Conjure Barrage
+      Freedom of Movement
+      Wind Wall
+
+Ranger Level 16
+  STR   DEX   CON   INT   WIS   CHA
+   12    20    14    12    18     9
+   +1    +5    +2    +1    +4    -1
+  Proficiencies: DEX(+10) Stealth(+10)
+  HP: 132
+  AC: 16
+  Shortsword:
+    Attack: +10
+    Damage: 1d6 + 5 Pierce (no +5 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +10
+    Damage: 1d4 + 5 Pierce (no +5 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +10
+    Damage: 1d8 + 5 Pierce
+
+Ranger Level 17
+  Proficiencies: STR(+7) DEX(+11) Perception(+10) Stealth(+11) Survival(+10)
+  HP: 140
+  Shortsword:
+    Attack: +11
+    Damage: 1d6 + 4 Pierce (no +4 when used in 2nd attack for two-weapon fighting)
+  Dagger:
+    Attack: +11
+    Damage: 1d4 + 4 Pierce (no +4 when used in 2nd attack for two weapon fighting)
+  Longbow 150/600: 50 Arrows
+    Attack: +11
+    Damage: 1d8 + 4 Pierce
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    3    1
+    Attack: +10
+    Save DC: 18
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+      Conjure Barrage
+      Freedom of Movement
+      Wind Wall
+      Swift Quiver
+
+Ranger Level 18
+  HP: 148
+  Feral Senses: No disadvantage against creatures you cannot see.
+    Learn the location of any invisible creature within 30ft of you as long as they are not hidden from you and you aren't blinded or deafened
+
+Ranger Level 19
+  STR   DEX   CON   INT   WIS   CHA
+   12    20    16    12    18     9
+   +1    +5    +3    +1    +4    -1
+  HP: 175
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    3    2
+    Attack: +10
+    Save DC: 18
+    Spells:
+      Cure Wounds
+      Hunter's Mark
+      Ensnaring Strike
+      Silence
+      Pass Without Trace
+      Lightning Arrow
+      Conjure Barrage
+      Freedom of Movement
+      Wind Wall
+      Swift Quiver
+      Tree Stride
+
+Ranger Level 20
+  HP: 184
+  Foe Slayer: [Once Per Turn] Can add WIS Modifier to an attack roll or damage roll against a favored enemy

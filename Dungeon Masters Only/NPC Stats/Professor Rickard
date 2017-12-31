@@ -1,0 +1,64 @@
+Wizard Level 1
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    14    20    16    10
+   -1    +2    +2    +5    +3     0
+  Proficiencies: INT(+10) WIS(+8) Arcana(+10) History(+10)
+
+  HP: 92
+  AC: 12
+
+  Arcane Focus: Staff
+  Spellbook
+
+  Dagger 20/60:
+    Attack: +6
+    Damage: 1d4 + 2 Pierce
+
+  Arcane Tradition: School of Divination
+    Divination Savant: Gold and Time to copy an divination spell into your spellbook is halved.
+    Portent: [After Long Rest] Glimpses of the future
+      Roll 2 d20s and record the numbers (each can only be used once and go away at a long rest)
+      You can replace any attack roll, saving throw, or ability check made by you or a creature you can see with one of these rolls. Must be done before the roll is made.
+    Expert Divination:
+      When you cast divination spell of 2nd LVL or higher using a spell slot,
+      regain 1 expended spell slot that is of lower LVL than the cast spell and lower than 5th LVL
+    The Third Eye: [Once Per Rest: Use Action] to increase powers of perception until you take the next rest.
+      Choose 1: Darkvision, Etheral Sight, Greater Comprehension, See Invisibility
+    Greater Portent: 3 d20s for Portent
+  Arcave Recovery: [Once Per Long Rest] Study your Spellbook.
+    After finishing a Rest
+    you can choose Expended Spell Slots to Recover.
+    Recovered Spell Slots can have a combined level <= half your Wizard LVL (rounded up) and < 6th LVL Spell Slot
+
+  Spellcasting:
+      Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+          5     4    3    3    3    2    1    1    1
+    Attack: +8
+    Save DC: 18
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 20:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst

@@ -1,0 +1,70 @@
+Chase
+
+Have the Pursued start a distrance in front of the Pursuers by a number equal to their movement speed (The Chase Distance).
+During a turn:
+  First all the Pursued run (order by Initiative Bonus).
+  Then all the Pursuers chase (order by Initiative Bonus).
+
+Turn Structure:
+  [Optional] At the start of the chase, pick or roll (DM picks dice to roll) to determine the number of turns until the chase concludes at a specific location (like for an ambush or a prepared getaway).
+
+  At the start of a turn before anyone has gone, roll on the Obstacle Table and Obstacle Difficulty.
+
+  Then have the Pursued decide to either take the obstacle penalty or attempt a skill check to bypass.
+    Skill Check depends on the Obstacle Type and Obstacle Difficulty:
+      Passes: Ignore Object Penalty
+      Fails: Double Object Penalty
+    Increase their Chase Distance by their movement speed - obstacle penalty.
+  Repeat for the Pursuers.
+
+  Obstacle Table
+    1   Straightaway
+    2   Straightaway
+    3   Squeeze or Crowd or Low Hanging Branch / Pipe / Rock
+    4   Wall or Debris Pile
+    5   Door
+    6   Blast of Extreme Temperature
+    7   Maze-like Route
+    8   Major Obstacle [Probably will need to make a skill check]
+
+  Obstacle Difficulty
+    1   Easy       10
+    2   Medium     15
+    3   Hard       20
+    4   Very Hard  25
+
+  Obstacle Type
+    Penalty (unless otherwise noted): 5 * Difficulty Option ft.
+    Skills can be changed to match what the PCs do. Adjust DC accordingly.
+
+    Straightaway:
+      Difficulty: Inclines, Steps, Sand
+      Penalty: 5 * (Difficulty Option - 1) ft.
+      Skill: Athletics
+    Squeeze or Crowd or Low Hanging Branch:
+      Difficulty: Gap Width, Branch Height
+      Skill: Acrobatics, (Charisma skills vs crowds)
+    Wall or Debris Pile:
+      Difficulty: Wall Height / Slipperyness
+      Skill: Acrobatics, Athletics
+    Door:
+      Difficulty: Door Thinkness / Doorknob Quality
+      Skill: Constitution, Lockpick, (related skill when a prestidigitation / druidcraft / etc. is used to open door)
+    Blast or Extreme Temperature:
+      Difficulty: The Extremeness
+      Skill: Constitution, Acrobatics, (related skill when a prestidigitation / druidcraft / etc. is used)
+    Maze-like Route:
+      Difficulty: How confusing the layout is
+      Skill: Survival, Investigation
+    Major Obstacle:
+      You must make a skill check to cross (unless Long Jump / High Jump etc. is good enough)
+      Difficulty: Long Gap, High Slippery Wall, Trap
+      Penalty:
+        No Skill Check: You move 0 ft.
+        Skill Check:
+          Critical Failure: 5ft. Barely passed obstacle and must make another skill check next turn or get assisted.
+            Chance of Death (from failing 2nd skill check). Or took damage somehow.
+          Fail: 1/2 Movement Speed
+          Success: Movement Speed
+          Critical Success: Can help someone who failed so it's as if they succeeded (or crit fail to normal fail)
+      Skill: Varies

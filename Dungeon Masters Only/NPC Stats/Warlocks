@@ -1,0 +1,686 @@
+Warlock Level 1
+  STR   DEX   CON   INT   WIS   CHA
+    9    10    14    12    16    16
+   -1     0    +2    +1    +3    +3
+  Proficiencies: WIS(+5) CHA(+5) Deception(+5) Investigation(+3)
+  HP: 10
+  AC: 11: Leather
+  Arcane Focus: Rod
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +2
+    Damage: 1d8 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 d6 Bludgeoning   Damage: 1d4 Pierce
+  Otherworldly Patron: The Fiend [Varies]
+    Dark One's Blessing:
+      When you reduce a hostile creature to 0 hp, you gain temporary hp equal to CHA Modifier + Warlock LVL
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        2       1       1st
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+    Spells 2:
+      Burning Hands
+      Command
+
+Warlock Level 2
+  HP: 17
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        2       2       1st
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+    Spells 3:
+      Burning Hands
+      Command
+      Hex
+    Eldritch Invocations 2:
+      Mask of Many Faces
+      Devil's Sight
+
+Warlock Level 3
+  HP: 24
+  Pact Boon: Pact of the Tome
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        2       2       2nd
+    Attack: +5
+    Save DC: 13
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+    Spells 4:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+    Eldritch Invocations 2:
+      Mask of Many Faces
+      Devil's Sight
+
+Warlock Level 4
+  STR   DEX   CON   INT   WIS   CHA
+    9    10    14    12    16    18
+   -1     0    +2    +1    +3    +4
+  Proficiencies: CHA(+6) Deception(+6)
+  HP: 31
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       2nd
+    Attack: +6
+    Save DC: 14
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 5:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+    Eldritch Invocations 2:
+      Mask of Many Faces
+      Devil's Sight
+
+Warlock Level 5
+  Proficiencies: WIS(+6) CHA(+7) Deception(+7) Investigation(+4)
+  HP: 38
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +3
+    Damage: 1d8 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 d6 Bludgeoning   Damage: 1d4 Pierce
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       3rd
+    Attack: +7
+    Save DC: 15
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 6:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+    Eldritch Invocations 3:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+
+Warlock Level 6
+  HP: 45
+  Otherworldly Patron: The Fiend [Varies]
+    Dark One's Own Luck: [Once Per Rest]
+      When you make ability check or saving throw,
+      you can add a d10 to your roll.
+      Can be done after the roll but before the roll's effect occur.
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       3rd
+    Attack: +7
+    Save DC: 15
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 7:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+    Eldritch Invocations 3:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+
+Warlock Level 7
+  HP: 52
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       4th
+    Attack: +7
+    Save DC: 15
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 8:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+    Eldritch Invocations 4:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+
+Warlock Level 8
+  STR   DEX   CON   INT   WIS   CHA
+    9    10    14    12    16    20
+   -1     0    +2    +1    +3    +5
+  Proficiencies: CHA(+8) Deception(+8)
+  HP: 59
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       4th
+    Attack: +8
+    Save DC: 16
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 9:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+    Eldritch Invocations 4:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+
+Warlock Level 9
+  Proficiencies: WIS(+7) CHA(+9) Deception(+9) Investigation(+5)
+  HP: 66
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +4
+    Damage: 1d8 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 d6 Bludgeoning   Damage: 1d4 Pierce
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        3       2       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+    Spells 10:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+    Eldritch Invocations 5:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+
+Warlock Level 10
+  HP: 73
+  Otherworldly Patron: The Fiend [Varies]
+    Fiendish Resilience: [When You Finish A Rest]
+      Choose 1 damage type that you gain resistance to until you choose a different one.
+      Damage from magical weapons or silver ignores this resistance.
+      [Default: Pierce]
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       2       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 10:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+    Eldritch Invocations 5:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+
+Warlock Level 11
+  HP: 80
+  Mystic Arcanum: 
+    [Once Per Long Rest] Can cast Arcanum Spell Once without expending a spell slot
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       3       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spell: [Once Per Long Rest]
+      Eyebite
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 11:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+    Eldritch Invocations 5:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+
+Warlock Level 12
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    14    12    16    20
+   -1    +1    +2    +1    +3    +5
+  HP: 87
+  AC: 12: Leather
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +5
+    Damage: 1d8 +1 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 Bludgeoning Slash
+  Dagger 20/60: x2
+    Attack: +5
+    Damage: 1d4 +1 Pierce (no +1 when used in 2nd attack for two-weapon fighting)
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       3       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spell: [Once Per Long Rest]
+      Eyebite
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 11:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+    Eldritch Invocations 6:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+
+Warlock Level 13
+  Proficiencies: WIS(+8) CHA(+10) Deception(+10) Investigation(+6)
+  HP: 94
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +6
+    Damage: 1d8 +1 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 Bludgeoning Slash
+  Dagger 20/60: x2
+    Attack: +6
+    Damage: 1d4 +1 Pierce (no +1 when used in 2nd attack for two-weapon fighting)
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       3       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spells: [Each Once Per Long Rest]
+      Eyebite
+      Finger of Death
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 12:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+      Dream
+    Eldritch Invocations 6:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+
+Warlock Level 14
+  HP: 101
+  Otherworldly Patron: The Fiend [Varies]
+    Hurl Through Hell: [Once Per Long Rest]
+      When You Hit A Creature With An Attack
+        You can instantly transport the target through the lower planes.
+      At the end of your next turn
+        Target returns to space it previously occupied or nearest unoccupied.
+        If not a fiend, it takes 10d10 Psychic Damage
+
+Warlock Level 15
+  HP: 108
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       3       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spells: [Each Once Per Long Rest]
+      Eyebite
+      Finger of Death
+      Power Word Stun
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 13:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+      Dream
+      Counterspell
+    Eldritch Invocations 7:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+      Witch Sight
+
+Warlock Level 16
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    14    12    16    20
+   -1    +2    +2    +1    +3    +5
+  HP: 115
+  AC: 13: Leather
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +7
+    Damage: 1d8 +2 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 Bludgeoning Slash
+  Dagger 20/60: x2
+    Attack: +7
+    Damage: 1d4 +2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+
+Warlock Level 17
+  Proficiencies: WIS(+9) CHA(+11) Deception(+11) Investigation(+7)
+  HP: 122
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +8
+    Damage: 1d8 +2 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 Bludgeoning Slash
+  Dagger 20/60: x2
+    Attack: +8
+    Damage: 1d4 +2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       4       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spells: [Each Once Per Long Rest]
+      Eyebite
+      Finger of Death
+      Power Word Stun
+      Foresight
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 14:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+      Dream
+      Counterspell
+      Hallucinatory Terrain
+    Eldritch Invocations 7:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+      Witch Sight
+
+Warlock Level 18
+  HP: 129
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       4       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spells: [Each Once Per Long Rest]
+      Eyebite
+      Finger of Death
+      Power Word Stun
+      Foresight
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 14:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+      Dream
+      Counterspell
+      Hallucinatory Terrain
+    Eldritch Invocations 8:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+      Witch Sight
+      Repelling Blast
+
+Warlock Level 19
+  STR   DEX   CON   INT   WIS   CHA
+    9    16    14    12    16    20
+   -1    +3    +2    +1    +3    +5
+  HP: 136
+  AC: 14: Leather
+  Light Crossbow 80/320: 20 Bolts
+    Attack: +9
+    Damage: 1d8 +2 Pierce
+  Mace:
+    Attack: -1
+    Damage: 1 Bludgeoning Slash
+  Dagger 20/60: x2
+    Attack: +9
+    Damage: 1d4 +2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+  Pact Magic:
+    Cantrips  Slots  Slot Level
+        4       4       5th
+    Attack: +9
+    Save DC: 17
+    Tome Cantrips:
+      Mending
+      Thorn Whip
+      Vicious Mockery
+    Arcanum Spells: [Each Once Per Long Rest]
+      Eyebite
+      Finger of Death
+      Power Word Stun
+      Foresight
+    Cantrips:
+      Eldritch Blast
+      Prestidigitation
+      Mage Hand
+      Friends
+    Spells 15:
+      Burning Hands
+      Command
+      Hex
+      Scorching Ray
+      Darkness
+      Fireball
+      Hunger of Hadar
+      Fireshield
+      Wall of Fire
+      Flame Strike
+      Hallow
+      Dream
+      Counterspell
+      Hallucinatory Terrain
+      Fly
+    Eldritch Invocations 8:
+      Mask of Many Faces
+      Devil's Sight
+      One with Shadows
+      Dreadful Word
+      Whisper of the Grave
+      Agonizing Blast
+      Witch Sight
+      Repelling Blast
+
+Warlock Level 20
+  HP: 143
+  Eldritch Master: [Once Per Long Rest]
+    Can spennd 1 minute entreating your patron,
+    regain all expended pact magic spell slots.

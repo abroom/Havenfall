@@ -1,0 +1,347 @@
+Travel:
+  The average time to travel from one district to another is 1 Hour. DM's Judgement for travel time.
+  The averate time to travel from one location in a district to another location in a district is 1 Hour.
+
+----------------------------------------
+
+Bank of Alexandria:
+  Below the Legions' soldiers are not all on duty at once, but Captains rotate shifts
+  Headquarters are in the Rose District.
+    Guarded by Blue Cloak Legion
+    Run by the Alexander's Master of Coin with representatives from each of the 8 New Nobles.
+  Largest Branch is in Merchants' Ward.
+    Guarded by 2 Blue Cloak Legions
+  Smaller Branches are in every district
+    Each Branch has its own Blue Cloak Legion
+  Bank Heists are quest events or random encounters.
+  Bank Accounts are Free (the bank uses money as loans etc. to make their money)
+  Storing Magical Items requires an interview at the Bank Headquarters.
+
+----------------------------------------
+
+Description:
+
+Capitol of the Realm of Alexandria. Largest city at the current time. Ruled by Alexander.
+Seperated by many districts. Lies behind a long circular wall that stretches out from Mt. Darkfoot to the Stickysap Forest. Walls are well maintained. Outside the Walls is a long stretch of small cottages and homes built by the poor and ones forbidden from entering the actual city. This stretch is known as the Sprawl.
+Roads converge and form larger roads the closer they get to the Gold Gate or main entrance to Alexandria.
+
+Behind the outer wall, buildings rise higher and higher the deeper they go into the city. At the back, you can see the Palace of Flame and the Temple of Light perched upon the Citadel and behind an very tall wall.
+
+At Night, the lights from the city light up the sky and its glow can be seen from miles away.
+Extensive sewer system runs through the districts of the city. The Citadel has it's own sewer system which empties out somewhere underwater. A connected sewer system runs under Rose Corner, the University of Alexandria, Guard Quarters, the Barracks, Artisan Square, Merchants' Ward, the Pink Slip, Copperton and empty beneath Oldtown and Dockside. Oldtown and Dockside are built ontop of sinking land, so buildings are constantly being renovated higher and built ontop of old decepid ones. There are the semi-rare earthquakes which essentially collapses and burries an entire city block (the city block could go down a few feet or so deep that it is lost) (occasionally rare survivors climb their way out of the dungeons weeks to months after a collapse and report they were miles below). Essentialy an abandoned, wet dungeon like cities lay beneath the upper layer. The sewers from the other Districts empty out all over the edge of these districts. All sorts of Monsters prowl this dank home and occasionally break their way into the sewers or the districts above to find surface prey. Mt. Darkfoot has dwarven sewer systems which run deep into the earth, Dwarven sewers are well constructed and small, so only tiny creatures can fit in these sewers and not many chose to.
+
+Walls:
+  New Wall: The Outer Wall, Constructed during the Reign of Alexander XXV.
+    When Built there was still plenty of land behind the wall for the city to grow into.
+    Wall is circular and stretches from Mt. Darkfoot to the Stickysap Forest.
+    30 ft tall. 3 Public Gates: Gold, Copper, Mud. 1 Restricted Gate: Green
+  Old Wall: An Inner Wall surrounding the wealtheir districts. Constructed during the Reign of Alexander III.
+    45 ft tall. 2 Public Gates: Dragon, Guard Quarter West. 1 Restricted Gate: Guard Quarter North
+  High Wall: Wall surrounding the Citadel, the Citadel is mostly cliffs as well.
+    100 ft tall. 1 Public Gate: Gate of Alexanders
+
+Districts:
+  Citadel
+    A small offshoot of land juts out inthe bay of Alexandria. The land here raises up steeply and high cliffs seperate the land from the sea. Built at the end of the Citadel is the Palace of Flame where the Alexanders have ruled from since the Alexander I. Other than the Royal Docks, the only entrance to this district is via the Rose District. The High Wall seperates the Rose Corner from the Citadel except for the Gate of Alexander conntected to the Periscoping Drawbridge of the Gnome.
+    The Palace of Flame is made from vibrant red stone, almost orange. It is massive, multi-tiered with large grounds. City Guards patrol the area with twice the usual number. A grandios flame that has been burning since Alexander I is in the courtyard framed by the massive pillars of the Palace entrance. 8 White Cloaks guard Alexander and are usually not far from him. Alexander holds court here and passes sentence or pardons for crimes.
+    The Gate of Alexander was constructed during the reign of Alexander IV and designed by his Gnome companion. The Gate has two iron gates on either end. The rose gate is also behind The Periscoping Drawbridge of the Gnome (50ft x 100ft) which connects the Rose Corner to the Citadel. Between the gates are arrowslits embed in square marble protusions from the walls or in the mouth of bust that was once carved from one of those marble busts. Each bust is of an Alexander before. Upon close inspection, the busts of Alexander I, II, III look quite similar to Alexander IV. 1,000 arrow slits are in the Gate. 
+    The Temple of Lionnell is also on the Citadel, close by the Gate of Alexanders so people from the city may visit. The Temple rises tall out of the ground like a candle. The Top is massive flame, serving as a lighthouse. The priests change the color during festivals, holidays, and sacred ceremonies. When requested by the realm, the priests also change the color to send signals to the populace or others.
+    No property is for sale here. Only Alexander and those who loyally serve him live here.
+    No Encounters here.
+    Tavern: Visitor's Castle (Royalty)
+    Tattered Cloak: Master Manwell
+    Quests: Royal, Undead and Demon and Devil Monster Hunting, Cursed Land Treasure Hunting, Immortal Cult Hunting
+
+  Rose Corner
+    Inhabited by the 8 new nobility and the wealthiest merchants. This districted is protected by the Old Wall and the neighboring Guard Quarter and University of Alexandria. The Dragon Gate seperates Rose Corner from Artisan Square.
+    The Dragon Gate is built from the Skull of an Ancient Dragon Slain by Alexander III.
+    The Temples of Ordell, Sennell, and Dunell are located here.
+    Property:
+      Crime Rate: -5%
+      Landprice per Room: 10,000 GP 
+      Available Structures: Manors, Churches (Good), Abbeys (Good), Keeps
+    Tavern: The Rose Garden (Aristocratic)
+    Tattered Cloak: Ser Yarra
+    Quests: Intrigue, Escort, Protection, Mount Wrangling, Beast Hunting, Assassination, Infiltration, Blackmail, Mountain Treasure Hunts, Melee (Non-lethal), Archery competition
+
+  University of Alexandria
+    This districted is protected by the Old Wall and neighbors the Rose Corner. The Old Wall seperates the University of Alexandria from Dockside and Artisan Square.
+    The Temple of Tuso is located here.
+    Activities:
+      Use the Library
+      Magical Duels at The Wizard's Cup
+      Professor Bumble's Dice Game
+        Professor Bumble is a Wizard LVL 15
+        He is crazy but kind. Looks like a he's gone a bit mad.
+        He has 7 multi-sided dice in front of him: 1d4 1d6 1d8 2d10 1d12 1d20
+        How to Play:
+          roll all the dice at once (if dice game proficient: roller can reroll all repeated dice)
+          You win: if all the dice results are a different number
+          You lose: if any of the dice results are the same number
+        100 GP per game. If they win, they get Bumble's Magical Dice (He won't tell them what it does)
+        [After winning Bumble's Magical Dice] 1000 GP Bet: Bumble will give the winner his last Genie Wish
+        Bumble's Magical Dice (attuned):
+          6: A Dimension Door opens above the roller's enemies. Bumble flies out.
+            Casts an 8th level spell at the roller's enemies.
+          5: A Dimension Door opens behind the roller's enemies. Bumble walks out.
+            Casts a 5th level spell at the roller's enemies.
+          4: A Dimension Door opens by the roller. Bumble pats the roller's back.
+            Roller gains Inspiration.
+          3: Suddenly Bumble exits a Dimension Door next to the roller.
+            Towards the roller: Bumble flashes [Blind], kisses [Charm], screams [Deafened], kicks [Stunned]
+          2: Suddenly Bumble exits a Dimension Door near the roller.
+            Casts a 1st level spell at the roller.
+          1: Suddenly Bumble exits a Dimension Door above the roller, he is flying.
+            Casts a 4th level spell at the roller.
+
+    Property:
+      Crime Rate: -3%
+      Landprice per Room: 5,000 GP
+        Technically, you are renting the land from the University. The University has the right to remove you from the land and can demand its renters to perform an action (The University has not abused this power to a noticeable extent).
+      Available Structures: Cottages, Houses, Lodges, Towers, Colleges
+    Professor Rickard runs the University. 
+    Tavern: The Wizard's Cup (Wealthy)
+    Crystal Cloak: Professor Rammus
+    Quests: Escort, Protection, Intrigue, Smuggling, Pest Control, Transplanal Treasure Hunts
+
+  Aritsan Square
+    An artsy and compact district with large amounts of Fleurance influenced architecture. Most of the artisans, cafes, restaurants, bard colleges, and theaters are in this district.
+    The Artisan Square is sperated from the University of Alexandria by the Old Wall. The Rose Corner can be entered via the Dragon Gate. And the Guard Quarter's Public Entrence is also here. The Bard neighbors Dockside, Merchant Ward, and the Barracks.
+    The Temple of Lyso is here.
+    Activity:
+      Watch a performance at a Bard College.
+      Trial of Culture (food eating contest with weird foreign food)
+    Property:
+      Crime Rate: 0%
+      Landprice per Room: 5,000 GP 
+      Available Structures: Cottages, Houses, Churches (Lyso), Towers, Manors, Colleges
+    Tavern: Cafe de Orc (Comfortable)
+    Tattered Cloak: Borki the Ork
+    Quests: Escort, Protection, Intrigue, Smuggling, Drug Deals, Old Race Realm Treasure Hunts
+
+  Guard Quarters
+    Double Encounter Chance here (in in restrected area without permission).
+    Where the City Guard is headquartered, jails, prisons, Guard Housing.
+    The Guard borders the Rose Corner. The West Gate connects to Artisan Square and is open to the public. The North Gate connects to the Barracks and is in the restricted section of the District.
+    Most of the Guarter Quarter is restricted to soldiers, government officials, special guests, and approved citizens. Guards will instantly halt and turn back or arrest unauthorized tresspassers.
+    A small portion of the section is public for citizens to make complaints, report crimes, pay bail.
+    No property is for sale here.
+    Blue Cloak: Sergeant Murl
+    Quests: Bandit Slaying, Bandit Capture, Keeping the Peace, Underworld Busts, Underworld Spying, Pest Control
+
+  Barracks
+    Double Encounter Chance here (if not permitted).
+    Headquarters of the Armies. The 1st and 4th Armies are permanently stationed here. This is a restricted section and only soldiers, government officials, special guests, and approved citizens may lawfully entere here.
+    The Barracks border the Merchant Ward and the Bard District, separated by a wooden fence with a few guarded entrances. The Barracks is connected to the Guard Quarters via the North Gate. The Barracks is seperated from the Ranger Camp and the Sprawl via the New Wall. This District has access out of Alexandria through the Forest Gate.
+    The Forest Gate has restricted Access.
+    No property is for sale here.
+    Red Cloak: Lieutenant Allan
+    Quests: Assassinations, Scouting, Infiltration, Sabotage, War
+
+  Merchants' Ward
+    Where most merchants are located. A bustling district full of harpers selling their wares, and people coming in and out of the city. Merchants' Ward is connected to Copperton, Pink Slip, Dockside, Artisan Square, and Barracks. Access in and out of the city is through the Gold Gate. Roads are bustling with moving tradecarts and shoppers. Many shops, many taverns, many people.
+    The Gold Gate is massive, allowing for heavy traffic flow. Guards line this area inspecting incoming travellers and interrogating anyone suspicious.
+    Most Merchants live here above their shops.
+    The Underworld is slightly active here, but the Guards are able to put a halt to most of their activities.
+    City Entry is 1 CP.
+    Activities:
+      Main Street Horse Races (Other mounts permitted)
+    Property:
+      Crime Rate: 5%
+      Landprice per Room: 2,500 GP 
+      Available Structures: Cottages, Houses, Lodges, Manors
+    Tavern: The Roasted Pig (Modest)
+    Tattered Cloak: Porky (he has a large burn across his face)
+    Quests: Escort, Protection, Pest Control, Tribal Land Treasure Hunts
+
+  Copperton
+    The largest housing district. Has the largest population (other than the Sprawl) of Alexandria. The underworld element is very active here and controlled by the Copperhead Gang.
+    Copperton borders Merchant's Ward, Pink Slip, Oldtown, and Mt. Darkfoot summit. Copperton has access to the Sprawl via the Copper Gate. City Entry is 1 CP.
+    Fights between Copperheads and Guards break out often. The odd skirmish between Copperheads and other encroaching or upstart gangs.
+    An Old Noble Family resides here.
+    Activities:
+      Urban Street Running (Parkour)
+    Property:
+      Crime Rate: 5% or (50% if Copperhead Gang is not paid for protection)
+      Landprice per Room: 2,000 GP
+      Available Structures: Cottages, Houses, Lodges, Manors
+    Tavern: The Oiled Ass (Modest)
+    Tattered Cloak: Charlie Copper
+    Quests: Copperhead Gang
+
+  Oldtown
+    Double Encounter Chance here.
+    The oldest part of Alexandria. Existed before the founding of Alexandria. Three of the Old Noble Families reside here. Run down part of the city with the highest crime. The underworld element is very active here and is controlled by the Thieves' Guild. Guards have for the most part given up on taming this part of the city.
+    Oldtown borders Dockside, Pink Slip, Copperton, and Mt. Darkfoot Museum. Oldtown has access out of the city through the Mud Gate.
+    City Entry is 1 CP.
+    The Temple of Doso is here.
+    Activities:
+      Cards / Dice at Club Cobbletop
+    Property:
+      Crime Rate: 15% or (50% if Thieves' Guild is not paid for protection)
+      Landprice per Room: 1,000 GP 
+      Available Structures: Cottages, Houses, Lodges, Churches (Doso), Manors
+    Tavern: Club Cobbletop (Comfortable)
+    Tattered Cloak: Cobbletop
+    Quests: Thieves' Guild, Graverobber Detective Quests
+
+  Dockside
+    Double Encounter Chance here.
+    The Docks. Trade ships come in out of here daily. Warehouses store good for sale and resale.
+    THe Underworld is very active here. The Thieves' Guild, Copperhead Gang, and Reapers are all vying for control of this portion of the city. Skirmishes between the groups break out almost every hour. The Guards are still trying to control this district but are spread thin.
+    Activities:
+      Wrestling and Boxing Matches at The Fighting Kraken
+    Property:
+      Crime Rate: 10%
+      Landprice per Room: 1,500 GP 
+      Available Structures: Damp Dungeon
+    Tavern: The Fighting Kraken (Poor)
+    Tattered Cloak: Whitebeard
+    Quests: Sea Monster Hunting, Pirate Hunting, Island/Sunken Treasure Hunting, Escort, Smuggling, Seagull Society
+
+Other Places:
+  The Sprawl
+    Double Encounter Chance here.
+    The makeshift housing that has propped up outside the New Wall. The Underworld is very active here. This district is controlled by the Reapers. No guards patrol the sprawl.
+    Activities:
+      Black Market
+      Coliseum (Fights to the death)
+    Property:
+      Crime Rate: 15% or (30% if the Reapers are not paid for protection)
+      Landprice per Room: 100 GP
+      Available Structures: Cottages, Houses, Lodges
+    Tavern: Rat's Nest (Squalid)
+    Tattered Cloak: Kyle Sword-Arm
+    Quests: Reapers
+
+  Stickysap Forest
+    The Forest East of Alexandria. The Temple to Naso is located here.
+    Tattered Cloak: Druid Dancyl
+    Quests: Lost Forest Treasure Hunting, Forest Monster Hunting
+
+  Ranger Camp
+    The headquarters of the Rangers are here. This is a restricted area, but not as heavily enforced if people seem to be behaving themselves.
+    General Freebird leads the Rangers.
+    Green Cloak: Captain Randall
+    Quests: Patrols, Bandit Slaying, Assassinations, Spying, Plains / Forest / Hill Monster Hunting
+
+  Pink Slip
+    Propped up in a tight alley stuck between Copperton and Dockside. This is the cities Red Light district. The Underworld is active here, but this area is considered Neutral territory.
+    Guards turn a blind eye to this area and many an off duty soldier can be found here.
+    Taverns: Winking Weasal (Comfortable), Devil's Playground (Poor), Romping Room (Modest)
+    Tattered Cloak: Regular Johnny
+    Quests: Escort, Protection, Black Market Deals, Debt Collection, Blackmail, Aggressive Takeovers, Pest Control
+
+  Mt. Darkfoot
+    Summit:
+      The top of the mountain.
+      A crumbling palace is for sale up here, but is inhabbited by a large homeless population.
+      There is a good view of the city and surrounding countryside up here.
+      The only access to the summit is through Copperton. There are some old Dwarven ruins up here as well, which may have a path down towards the Museum.
+      Guards do not patrol this area. Not many people climb the summit here.
+      Property:
+        Crime Rate: 3%
+        Landprice per Room: 0
+        Available Structures: Homeless Palace
+    Museum:
+      Under the mountain, this used to be an existing Mountain Dwarf Realm before they were chased deeper underground and the path was shut behind them. Alexander L allowed the Museum to be opened. The Darkfoots, a Dwarf Family that has resided in Alexandria for a long time and adopted much of the human culture, requested for the Museum. They have been slowly repairing and explore the ruins and opening up their ancient routes to those who are curious.
+      Entry fee is 1 CP (unless here on business).
+      The Museum has private security.
+
+Factions:
+  Red Cloaks
+    The Army. There are 8 Armies. Each Army is led by a General the reports to Alexander.
+    The 1st and 4th Armies are headquartered in Alexandria.
+    Ranks:  General(15), Captain(10), Lieutenant(8), Sergeant(5), Private(3)
+    There are 8 Captains under a General.
+      8 Lieutenants under a Captain.
+      8 Sergeants under a Lieutenant.
+      8 Privates under a Sergeant.
+    An Army at full force:
+      {[(8 Privates + 1 Sergeant) * 8 + 1 Lieutenant] * 8  + 1 Captain} * 8 + 1 General
+      4681
+
+  Green Cloaks
+    The Rangers. There is 1 Ranger General who reports to Alexander, even though the Rangers are usually performing recon for Armies and journey with Armies as Scouts.
+    There are 8 Captains under a General.
+      8 Sergeants under a Lieutenant.
+    The Rangers at full force:
+      (8 Sergeants + 1 Captain) * 8 + 1 General
+      73
+    Ranks: General(15), Captain(10), Sergeant(5)
+
+  Blue Cloaks
+    The City Guard. There many Guard Legions all over the Realm of Alexandria stationed in different cities.
+    Alexandria has 8 Guard Legions just for itself.
+    A Guard Legion at full force:
+      (8 Privates + 1 Sergeant) * 8 + 1 Captain
+      73
+    Ranks: Captain(10), Sergeant(5), Private(3)
+  
+  White Cloaks
+    The Royal Guard of Alexandria. 8 Paladins sworn to give their life in protection of Alexandria.
+    They are level 16.
+  
+  Black Cloaks
+    The Special Forces that report direct to Alexander. They are Level 16.
+
+  Alexander
+    The Ruler. Level 15.
+  
+  Gray Cloaks
+    Tattered Cloaks who have performed a valuable servie for Alexander and are knighted for their service. Only a small handful of people have a Grey Cloak.
+  
+  Tattered Cloaks
+    The sellswords, bounty hunters, and other men for hire. Many older Tattered Cloaks now work as job brokers for the younger ones. Basically every Tavern has one.
+  
+  Gold Cloaks
+    Wealthiest Merchants wear these.
+  
+  Silver Cloaks
+    Priests and people who work at Temples wear these.
+  
+  Copper Cloaks
+    Service providers wear these.
+
+  Crystal Cloaks
+    University of Alexandria professors wear these.
+
+  Reapers
+    Underworld Faction that controls the Sprawl and vying for control of the Docks.
+    They are known for being insane and very violent. 
+  
+  Thieves' Guild
+    Underworld Faction that controls Oldtown and vying for control of the Docks.
+    They are the oldest faction and known for following the Code of Thieves' Honor
+  
+  Copperhead Gang
+    Underworld Faction that controls Copperton and vying for control of the Docks.
+    The Copperheads are very pro-human and go out of their way to prove humanity's superiority.
+
+  Seagull Society
+    Underworld Faction that is active only in Dockside.
+    Stealt from the wealthy then give to the poor types.
+    Youngest Gang (literally and historically). Arrested Development due to the Dockside Gangwar.
+    Attacked on sight by all the other gangs because none of the bigger three want a new competitor.
+
+  8 New Nobles
+    Wealthy Merchant Families that Alexander I raised to Nobility when he founded Alexandria.
+    They live in the Rose District and all compete with each other for more power.
+    Intrigue, backstabbing, honor, and all the complicated stuff Nobles covet.
+    Family Names:
+      Duskheart
+      Milton
+      Torben
+      Goddard
+      Oakshield
+      Chillpike
+      Williams
+      Spirril (Head of Family is also Representative to the Bank of Alexandria. Runs the daily activities.)
+  
+  4 Old Nobles
+    Noble Families that swore fealty to Alexander I in Oldtown before the founding of Alexandria.
+    Except for the Daynes, the other 3 are resentful of the 8 New Nobles. And don't like being Old now that 2000 years have passed.
+    Dayne
+    Cobbletop
+    Grinn
+    Warrow (Copperton)

@@ -1,0 +1,511 @@
+Sorcerer Level 1
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    16    14    10    16
+   -1    +1    +3    +2     0    +3
+  Proficiencies: CON(+5) CHA(+5) Arcana(+4) Persuasion(+5)
+  HP: 9
+  AC: 11
+  Arcane Focus: Orb
+  Dagger 20/60: x3
+    Attack: +3
+    Damage: 1d4 + 1 Pierce (no +1 when used in 2nd attack for two-weapon fighting)
+  Sorcerous Origin: Wild Magic
+    Wild Magic Surge: roll d20 for magical surge. If 1 is rolled, roll on Wild Magic Surge table PHB 104
+    Tides of Chaos: [Once Per Long Rest] Gain advantgae on 1 attack roll, ability check, or saving throw
+      Before you regain this feature, the DM can have you roll on Wild Magic Surge table immediatly after you cast a sorcerer spell of 1st level or higher. (Then you regain this feature).
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     2
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+    Spells 2:
+      Mage Armor
+      Witch Bolt
+
+Sorcerer Level 2
+  HP: 16
+  Font of Magic:
+    Sorcery Points: Sorcerer LVL
+    Flexible Casting: [Bonus Action] Convert Sorcery Points into Spell Slots PHB 101
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     3
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+    Spells 3:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+
+Sorcerer Level 3
+  HP: 23
+  Metamagic:
+    Distant Spell
+    Carefull Spell
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    2
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+    Spells 4:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+
+Sorcerer Level 4
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    16    14    10    18
+   -1    +1    +3    +2     0    +4
+  Proficiencies: CHA(+6) Persuasion(+6)
+  HP: 30
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3
+    Attack: +6
+    Save DC: 14
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 5:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+
+Sorcerer Level 5
+  Proficiencies: CON(+6) CHA(+7) Arcana(+5) Persuasion(+7)
+  HP: 37
+  Dagger 20/60: x3
+    Attack: +4
+    Damage: 1d4 + 1 Pierce (no +1 when used in 2nd attack for two-weapon fighting)
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    2
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 6:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+
+Sorcerer Level 6
+  HP: 44
+  Sorcerous Origin: Wild Magic
+    Bend Luck: [Reaction | 2 Sorcery Points]
+      When another creature you can see makes an attack roll, ability check, or saving throw,
+      you can use your reaction and spend the 2 sorcery points to roll 1d4 and apply as bonus or penalty.
+      You can do so after the creature rolls but before the roll's effects occur.
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 7:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+
+Sorcerer Level 7
+  HP:51
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    1
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 8:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+
+Sorcerer Level 8
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    16    14    10    20
+   -1    +1    +3    +2     0    +5
+  Proficiencies: CHA(+8) Persuasion(+8)
+  HP: 58
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    2
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 9:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+
+Sorcerer Level 9
+  Proficiencies: CON(+7) CHA(+9) Arcana(+6) Persuasion(+9)
+  HP: 65
+  Dagger 20/60: x3
+    Attack: +5
+    Damage: 1d4 + 1 Pierce (no +1 when used in 2nd attack for two-weapon fighting)
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+    Spells 10:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+
+Sorcerer Level 10
+  HP: 72
+  Metamagic:
+    Distant Spell
+    Carefull Spell
+    Empowered Spell
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 11:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+
+Sorcerer Level 11
+  HP: 79
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 12:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+
+Sorcerer Level 12
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    16    14    10    20
+   -1    +2    +3    +2     0    +5
+  HP: 86
+  AC: 12
+  Dagger 20/60: x3
+    Attack: +5
+    Damage: 1d4 + 2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+
+Sorcerer Level 13
+  Proficiencies: CON(+8) CHA(+10) Arcana(+7) Persuasion(+10)
+  Dagger 20/60: x3
+    Attack: +6
+    Damage: 1d4 + 2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1
+    Attack: +10
+    Save DC: 18
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 13:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+
+Sorcerer Level 14
+  HP: 93
+  Sorcerous Origin: Wild Magic
+    Controlled Chaos: Whenever you roll on Wild Magic Surge: you can roll twice and use either number
+
+Sorcerer Level 15
+  HP: 100
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1    1
+    Attack: +10
+    Save DC: 18
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 14:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+      Earthquake
+
+Sorcerer Level 16
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    18    14    10    20
+   -1    +2    +4    +2     0    +5
+  Proficiencies: CON(+9)
+  HP: 123
+
+Sorcerer Level 17
+  Proficiencies: CON(+10) CHA(+11) Arcana(+8) Persuasion(+11)
+  HP: 131
+  Dagger 20/60: x3
+    Attack: +7
+    Damage: 1d4 + 2 Pierce (no +2 when used in 2nd attack for two-weapon fighting)
+  Metamagic:
+    Distant Spell
+    Carefull Spell
+    Empowered Spell
+    Twinned Spell
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1    1    1
+    Attack: +11
+    Save DC: 19
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 15:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+      Earthquake
+      Time Stop
+
+Sorcerer Level 18
+  HP: 139
+  Sorcerous Origin: Wild Magic
+    Spell Bombardment: [Once Per Turn]
+      When you roll damage for a spell and roll the highest number possible on any of the dice
+      choose one of those dice, roll it again and add that roll to the damage
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    1    1    1    1
+    Attack: +11
+    Save DC: 19
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 15:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+      Earthquake
+      Time Stop
+
+Sorcerer Level 19
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    18    16    10    20
+   -1    +2    +4    +3     0    +5
+  Proficiencies: Arcana(+9)
+  HP: 147
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    2    1    1    1
+    Attack: +11
+    Save DC: 19
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 15:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+      Earthquake
+      Time Stop
+
+Sorcerer Level 20
+  HP: 155
+  Sorcerous Restoration: [Finish A Short Rest]
+    Regain 4 expended sorcery points
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    2    2    1    1
+    Attack: +11
+    Save DC: 19
+    Cantrips:
+      Prestidigitation
+      Shocking Grasp
+      Fire Bolt
+      Light
+      True Strike
+      Minor Illusion
+    Spells 15:
+      Mage Armor
+      Witch Bolt
+      Thunderwave
+      Enlarge/Reduce
+      Mirror Image
+      Lightning Bolt
+      Protection From Energy
+      Greater Invisibility
+      Blight
+      Telekenesis
+      Cloudkill
+      Chain Lightning
+      Reverse Gravity
+      Earthquake
+      Time Stop

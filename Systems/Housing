@@ -1,0 +1,310 @@
+Various structures can be bought. They come in different sizes and shapes. Other than the bedrooms and possibly one existing Room, renovations are needed to make the remaining rooms functionable.
+
+Each Structure has a Room Limit or number rooms that it can support. Structures can always be expanded to support more rooms. Expansions are (2,500 GP + Room Cost) for a +1 to the Room Limit and takes 1d4 months to complete.
+
+If you are building a structure from the ground up, then the pricing is a little different. Decide on a Room Limit, then the construction cost is (2,000 GP * Room Limit) + (Total Room Cost / 2) and the construction time is 1d6 months for each room.
+
+Each Structure has a Land Limit. A Structure's Room Limit cannot go above a Structure's Land Limit. Land Limits are equal to a Structure's Room Limit when purchased. Land Limits can be expanded by purchasing neighboring land for 2 * Land Price. The Land Price is determined by where your Structure is built (ask your Realtor / DM).
+
+Land can be bought in the countryside and is usually isolated from any other settlement. Land can be purchased for 1,000 GP, and it will usually have a Crime Chance of 5% and a Land Limit of 1,000.
+
+Hirelings must be hired for maintenance while you are away. Otherwise, the structure is at risk of falling under disrepair and may be burglarized or vandalized.
+  The number of skilled hirelings depends on the Constructed Rooms. (2 GP per week)
+  The number of unskilled hirelings depends on the Room Limit. (2 SP per week)
+        Room Limit      Required Amount of Unskilled Hirelings
+          1 - 7           2^(Number of Rooms - 1).
+          8               100
+          9+              100 + 50 * (Number of Rooms - 8)
+  Armed hirelings can be hired to protect your structure.
+    Guard          5 SP
+    Scout          2 GP
+    Thug           2 GP
+    Spy            5 GP
+    Berserker     10 GP
+    Knight        20 GP
+    Veteran       20 GP
+    Assassin      50 GP
+    Spellcasters:
+      Acolyte      2 GP
+      Druid       15 GP
+      Priest      15 GP
+      Mage        50 GP
+
+Rooms have a Room Size which is how much of the Room Limit is taken up by the Room.
+Rooms can be remodled for the Room Cost and take 1d3 months to complete.
+Rooms may have multiple levels. When upgrading to a higher level, subtract the old level's cost from the new level's cost. If you want to upgrade a Room further than described below, work with the DM.
+Soom Rooms bring in weekly income.
+
+Crime is a weekly random chance (unless your campaign actions result in some backlash against your Structure).
+  Crime Chance: Location Crime Chance (ask Realator / DM)
+                + Room Limit * 1%
+                + Constructed Rooms * 1%
+                + Additional Room Crime Modifiers
+
+Protection provides creatures in a room with a +1 bonus from creatures outside the room (or wall / moat).
+
+----------------------------------------
+
+Structure     Room Limit      Cost        Bonus Room       Skilled Hirelings     Unskilled Hirelings
+  Cottage       1            5,000 GP                                                1 
+
+  House         2           10,000 GP                                                2
+  Lodge         2           15,000 GP     Dining Hall 1       1                      2
+  
+  Outpost       3           15,000 GP                                                4
+  Dungeon       3           20,000 GP     Jails 1             1                      4
+  Tower         3           20,000 GP     Ritual Circle       1                      4
+  
+  Manor         4           25,000 GP     Office              1                      8
+  Church        4           25,000 GP     Chapel              3                      8
+  
+  College       6           34,000 GP     Lecture Hall        1                     32
+  Abbey         6           35,000 GP     Chapel              3                     32
+  Keep          6           35,000 GP     Stables             2                     32
+  
+  Palace       10           55,000 GP     Lodgings            2                    200
+
+
+----------------------------------------
+
+Room Types:
+Animal Pen
+  Securly holds willing and unwilling creatures (except humanoids and Tiny creatures).
+  Creatures are fed unless specified otherwise.
+  Max Creature Size allows for 1 creature of that Size to fit in the Room.
+  A Creature takes up the same amount of room as 3 Creatures that are one size smaller.
+  This room has 3 levels: Large, Huge, Gargantuan.
+                        Large       Huge      Gargantuan
+  Room Cost:           1,000 GP   4,000 GP   10,000 GP
+  Max Creature Size:    Large       Huge      Gargantuan
+  Room Size:              1          2          4
+  Skilled Hirelings:      1          3          9
+
+Armory
+  Stockpile of common weapons and armor.
+  A smithy works here providing basic repairs and replenishment of ammo.
+  If permitted, allows commonfolk and Non-Armed hirelings to arm themselves when under attack.
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Barracks
+  Housing for a private army.
+  Armed Hirelings who stay here only cost half as much.
+  Skilled and Unskilled hirelings cannot stay here.
+  This room has a natural Protection of 1.
+  Room Crime:            -2%
+  Room Cost:           2,500 GP
+  Room Size:              1
+  Max Armed Hirelings:   20
+  Skilled Hirelings:      2
+
+Black Market
+  Known in the underworld as a go-to place to acquire some not-so-legal merchandise.
+  Fences and Illegal goods are here.
+  Room Income:      10 GP
+  Room Crime:       +5%
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Chapel
+  Religious Imagery, Iconography, Holy Texts
+  Pick a God this Chapel is dedicated to.
+  Each Chapel has a different effect on the whole Structure.
+  Only one Chapel per God may be built in a single Structure.
+    Lionell
+      Darkness has no effect. Good characters become Inspired after an hour.
+    Ordell
+      Room Crime: -5%
+    Sennell
+      Cannot be frightened.
+    Dunell
+      20 Unskilled or 10 Skilled or some combination of the Hirelings work for free.
+    Naso
+      Skill checks involving animals and or plantlife have advantage.
+    Lyso
+      Dead bodies cannot be turned into Undead.
+    Doso
+      Revivification spells can be cast for half the material cost.
+    Tuso
+      Tongues Spell is always in effect.
+    Lutrak
+      After a long rest, for the next 16 hours Charm casters have advantage and the target has disadvantage.
+      Room Crime: +10%
+    Warrak
+      After a long rest, for the next 16 hours Attack rolls have advantage.
+      Room Crime: +10%
+    Gadrak
+      Room Income: 100 GP
+      Room Crime: +10%
+    Rakrak
+      Daylight has no effect. Evil characters become Inspired after an hour.
+      If you meditate here, there is a chance that someone will converse with you.
+      Room Crime: +10%
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 3
+
+Dining Hall
+  A place to eat banquets. Every week, a banquet can be hosted.
+  Roll a dice (dependent on level), and divide the result out as inspiration to those who eat the meal.
+  This Room has 2 levels: Supper, Feasting
+                       Supper       Feasting
+  Dice:                 1d4           1d8
+  Room Cost:           2,500 GP     4,000 GP
+  Room Size:            1             2
+  Skilled Hirelings:    1             2
+
+Docks
+  Can only be built if Location is near water.
+  A place for to berth your boat for free. A place for trading and traveler vessels to berth or mooring.
+  This Room has 4 levels: Private, Small, Large, Commercial
+                     Private      Small         Large         Commercial
+  Number of Berths:     1           2             3              5
+  Number of Moorings:               3             5             10
+  Room Income:                    10 GP         50 GP        100 GP
+  Room Cost:         2,500 GP    5,000 GP      10,000 GP    20,000 and a Master Builder
+  Room Size:            1           2             3            5
+  Skilled Hirelings:    1           2             3            3
+
+Escape Tunnel
+  A place for you to get out if things go sideways.
+  Room Cost:      3,000 GP
+
+Fighter's Ring
+  A place to compete in order to find out who is the best at the Martial Arts.
+  Room Income:       5 GP
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Gambler's Den
+  A place to win a fortune to immediatly lose it again in the same night.
+  This Room has 3 levels: Card Table, Gaming Club, Casino
+                Card Table    Gaming Club   Casino
+  Room Income:       5 GP       10 GP         50 GP
+  Room Crime:       +1%        +2%           +5%
+  Room Cost:      2,500 GP    5,000 GP     10,000 GP
+  Room Size:         1          1             2
+  Skilled Hirelings: 1          3             6
+
+Garden
+  Herbs for potions are grown here.
+  A Garden grows the necessary Herbs for specific potions.
+  The number of potion types depends on the Garden level.
+  This Room has 4 levels: Container, Bed, Layered, Botanic
+                Container      Bed          Layered    Botanic
+  Potions:          1           2             3           4
+  Room Cost:      2,500 GP    5,000 GP     7,500 GP     10,000 GP
+  Room Size:         1          1             1           2
+  Skilled Hirelings: 1          1             2           2
+
+Graveyard
+  A place for the dead to be interred.
+  Room Cost:      2,000 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Jails
+  Securly holds willing and unwilling humanoids.
+  Prisoners are fed unless specified otherwise.
+  This room has 3 levels: Cell, Row, Complex.
+                        Cell       Row        Complex
+  Prisoner Capacity:      2          6          30
+  Room Cost:           2,500 GP   5,000 GP   10,000 GP
+  Room Size:              1          2          4
+  Skilled Hirelings:      1          3          9
+
+Lecture Hall / Theater / Balcony
+  A place where a speaker is in clear view and their voice is amplified by acoustics.
+  When on the stage, Charisma checks and saving throws are made with advantage.
+  Room Cost:      2,000 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Library
+  A large collection of assorted books can be found here. Skillbooks to Monster Manuals.
+  Room Cost:      5,000 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Lodgings
+  50 Unskilled or 25 Skilled or some combination of Hirelings can sleep here and cost half as much.
+  Armed Hirelings cannot stay here.
+  Room Cost:         2,500 GP
+  Room Size:            1
+  Skilled Hirelings:    2
+
+Market
+  A room where merchants may setup stalls and entice locals with goods from distant lands.
+  This Room has 2 levels: Caravanasary, Storefronts
+                Caravanasary    Storefronts
+  Room Income:       5 GP           10 GP
+  Room Crime:       +1%             +3%
+  Room Cost:      2,500 GP        5,000 GP
+  Room Size:         1               1
+  Skilled Hirelings: 1               2
+
+Moat
+  Keep out the unwelcome. All Rooms in the Room Limited (constructed or unconstructed) gain a point of protection.
+  Room Crime:       -5%
+  Room Cost:      3,000 GP * Room Limit
+  Room Size:         1
+
+Office
+  A quiet room to plan journeys. A journey planned here takes a more efficient route.
+  As long as all is going according to plan, the party travels 2 extra miles per hour.
+  Office has a natural protection of +1.
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Private Workspace (Type)
+  Your own dedicated workspace for using your tool or kit.
+  This room has 4 levels: Basic, Advanced, Premium, State of the Art.
+                      Basic       Advanced      Premium      State of the Art
+  Crafting Bonus:      +1          +2            +3           +5
+  Room Cost:         2,500 GP    5,000 GP      10,000 GP    20,000 and a Master Builder
+  Room Size:            1           1             1            1
+  Skilled Hirelings:    1           2             3            3 
+
+Ritual Circle
+  The foor here is covered in Runes and Candles and smells of magical residue.
+  Rituals cast here take half the time and half the cost of materials.
+  The ritual circle may be upgrade to a Magic Circle or Teleportation Circle, but doing so loses the benefits to casting rituals here.
+  Magic Circle: 2,500 GP upgarde cost.
+  Teleportation Circle: 7,500 GP upgrade cost and a Teleportation Overseer from the University.
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 1
+
+Stables
+  Mounts are kept, fed, and groomed here. Mounts who long rest here are able to move at a Fast Pace with no penalty to Perception for the 1d4 days.
+  Mount Capacity:    8
+  Room Cost:      2,500 GP
+  Room Size:         1
+  Skilled Hirelings: 2
+
+Tavern
+  Drinks, rumors, and bardsong. Beds for travellers to rest.
+  Income:           10 GP
+  Room Cost:      3,000 GP
+  Room Size:         1
+  Skilled Hirelings: 3
+
+Walls
+  Keep out the unwelcome. All Rooms in the Room Limited (constructed or unconstructed) gain a point of protection.
+  Room Crime:       -5%
+  Room Cost:      2,000 GP * Room Limit
+  Room Size:         1
+  Skilled Hirelings: Room Limit (at the time of construction)
+
+----------------------------------------
+
+Room Modifications:
+Work with the DM to modifiy the room as to how you see fit.
+Mods cost a varrying amount of Gold. Usually 1,000 GP or more.
+Hidden Door: +2 protection and chance to not be robbed
+Trapped: Unwanted entrants will have to dodge a nasty surprise.
+Warded: A spell is cast over the room, giving various benefits.

@@ -1,0 +1,8 @@
+The base DC for revivification is 10.
+  The base increases by 1 every time a character has died and come back to life in the past.
+  Assist Checks
+    Critical Successes decrease the DC by 4.
+    Successful checks decrease the DC by 2.
+    Failed checks increase the DC by 1.
+    Critical Fails increase the DC by 2.
+  After the Dead PC decides to roll to attempt to come back to life, you may choose to tell the PC the DC.

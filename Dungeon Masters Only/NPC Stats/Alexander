@@ -1,0 +1,29 @@
+Fighter Level 15
+STR   DEX   CON   INT   WIS   CHA
+ 20    16    18    14    14    16
+ +5    +3    +4    +2    +2    +3
+
+Proficiencies: STR(+10) CON(+9) Athletics(+10) Insight(+7)
+Disadvantage: Stealth
+
+HP: 145
+AC: 21: Plate + Shield + Defense
+
+Lightfire (Magic Longsword +3):
+  Attack: +13
+  Damage: 1d8 + 10 Magic Slash
+
+Fighting Style: Dueling
+Second Wind: [Once Per Rest] Heal 1d10 + [Fighter Level] HP
+Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+Indomitable: [Twice Per Long Rest] Reroll a failed saving throw.
+Extra Attack: 3 attacks are made during the attack action
+Martial Archetype: Champion
+  Additional Fighting Style: Defense
+  Superior Critical: Attack Critical Hits trigger on a roll of 18 or 19 or 20
+  Remarkable Athlete: add 1/2 prof (round up) to any STR, DEX, CON check that does not use prof
+    Long Jump Distance = STR Score + STR Modifier ft.
+
+Items:
+  1 Supreme Healing Potion
+  1 Scroll: Level 4: Dimension Door 

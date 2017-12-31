@@ -1,0 +1,68 @@
+Training a Mount
+  Animal Handling Skill Rolls to Train a Mount.
+  Base DC = 10 + CR
+  Passing results in +1% progress towards the mount being trained.
+  For every 5 your roll is above the DC is an additional 1% progress.
+  For every 5 your roll is below the DC, the mount's training regresses by 1%.
+  Critical Success: +5% and optional to teach the animal a trick
+  Critical Failure: -5% and you are thrown and take 1d6 bludgeoning damage
+
+Mounted Combat
+  A creature that is at least one size larger than you and that has an appropriate anatomy or saddle can serve as a mount, using the following rules.  For an unwilling creature, you will have to make an opposed animal handling roll vs its athletics as it tries to buck you. If you succeed you are mounted on an independent mount. If you fail, you are thrown and take 1d6 bludgeoning damage.
+
+  Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. 
+  If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw. 
+  If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+
+  While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, act independently. 
+  You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it. 
+  An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes. 
+  In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+
+Barding: Armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+
+Saddles:
+  Military saddles and Exotic saddles brace the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.  
+  Pack saddles allow large items to be carried on the mount instead of a rider. An exotic saddle is required for any equatic of flying mount.
+
+An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+
+Mount Relay Ticket: 10 gp
+
+Mounts
+Animal            Cost    Speed     Capacity
+  Camel            50 gp    50 ft.    480 lb.
+  Donkey or mule    8 gp    40 ft.    420 lb.
+  Elephant        200 gp    40 ft.  1,320 lb.
+  Horse, draft     50 gp    40 ft.    540 lb.
+  Horse, riding    75 gp    60 ft.    480 lb.
+  Mastiff          25 gp    40 ft.    195 lb.
+  Pony             30 gp    40 ft.    225 lb.
+  Warhorse        400 gp    60 ft.    540 lb.
+
+Tack, Harness, and Drawn Vehicles
+Item                    Cost     Weight
+  Barding                 ×4       ×2
+  Bit and bridle          2 gp      1 lb.
+  Carriage              100 gp    600 lb.
+  Cart                   15 gp    200 lb.
+  Chariot               250 gp    100 lb.
+  Animal Feed (per day)   5 cp     10 lb.
+  Saddle, Exotic         60 gp     40 lb.
+  Saddle, Military       20 gp     30 lb.
+  Saddle, Pack            5 gp     15 lb.
+  Riding                 10 gp     25 lb.
+  Saddlebags              4 gp      8 lb.
+  Sled                   20 gp    300 lb.
+  Stabling (per day)      5 sp
+  Wagon                  35 gp    400 lb.
+
+Waterborne Vehicles
+Vehicle       Cost          Speed
+  Galley        30,000 gp     4   mph
+  Keelboat       3,000 gp     1   mph
+  Longship      10,000 gp     3   mph
+  Rowboat           50 gp     1.5 mph
+  Sailing ship  10,000 gp     2   mph
+  Warship       25,000 gp     2.5 mph

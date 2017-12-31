@@ -1,0 +1,621 @@
+Paladin Level 1
+  STR   DEX   CON   INT   WIS   CHA
+   16    10    14     9    12    16
+   +3     0    +2    -1    +1    +3
+  Proficiencies: WIS(+3) CHA(+5) Insight(+3) Religion(+1)
+  Disadvantage: Stealth
+  HP: 12
+  AC: 18: Chainmail + Shield
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +5
+    Damage: 1d8 + 3 Slash
+  Mace:
+    Attack: +5
+    Damage: 1d6 + 3 Bludgeoning
+  Divine Sense: [(1 + CHA Modifier) Per Long Rest]
+    Until end of your next turn
+    you know the location of any Celestial, Fiend or Undead
+    within 60ft of you and is not behind total cover.
+    You know the monster type of any being whose presence you sense, but not its identity
+    Also within the radius,
+    you detect the presence of any place or object that has been consecreated or desecrated
+    as with the Hallow spell.
+  Lay On Hands:
+    HP Healing Pool: Paladin LVL * 5
+    As an action, can touch a creature to heal (using healing healing pool points)
+    No effect on undead or constructs
+
+Paladin Level 2
+  HP: 20
+  Fighting Style: Protection
+    When a creature you can see attacks a target other than you within 5 feet of you
+    and you are wielding a shield,
+    then you can use your reaction to impose disadvantage on the attack roll.
+  Divine Smite:
+    When you hit a creature with a melee weapon attack,
+    you can expend one paladin spell slot to deal additional radiant damage
+    2d8 damage for 1st-level spell slot
+    plus 1d8 for each spell level higher
+    to a maximum of 5d8.
+    Damage increases by 1d8 if the target is undead or a fiend.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       2
+    Attack: +5
+    Save DC: 13
+    Prepared Spells: 4
+      Bless
+      Cure Wounds
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 3
+  HP: 28
+  Divine Health: Immune to disease.
+  Sacred Oath: Oath of Devotion
+    Channel Divinity:
+      Sacred Weapon:
+        As an action, imbue one weapon with positive energy
+        For 1 minute, add CHA modifier to attack rolls made with imbued weapon
+        Weapon emits bright light in 20ft radius. and dim light 20ft further.
+        Weapon becomes magical if not already magical.
+      Turn the Unholy:
+        Present your holy symbol and speak a prayer censuring fiends and undead
+        Each fiend or undead that can see or hear you within 30ft must make a WIS saving throw
+        If failed, it is turned for 1 min or until it takes damage
+        Turned creature must spend its turns dashing as far away from you as it can
+        and cannot willing move to space within 30ft of you
+        and cannot take reactions.
+        If there is nowhere for the creature to move, it can Dodge.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       3
+    Attack: +5
+    Save DC: 13
+    Oath Spells:
+      Protection from evil and good
+      sanctuary
+    Prepared Spells: 4
+      Bless
+      Cure Wounds
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 4
+  STR   DEX   CON   INT   WIS   CHA
+   16    10    14     9    12    18
+   +3     0    +2    -1    +1    +4
+  Proficiencies: CHA(+6)
+  HP: 36
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       3
+    Attack: +6
+    Save DC: 14
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+    Prepared Spells: 6
+      Bless
+      Compelled Duel
+      Cure Wounds
+      Heroism
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 5
+  Proficiencies: WIS(+4) CHA(+7) Insight(+4) Religion(+2)
+  HP: 44
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +6
+    Damage: 1d8 + 3 Slash
+  Mace:
+    Attack: +6
+    Damage: 1d6 + 3 Bludgeoning
+  Extra Attack: 2 attacks are made during the attack action
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    2
+    Attack: +7
+    Save DC: 15
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+    Prepared Spells: 6
+      Bless
+      Branding Smite
+      Compelled Duel
+      Heroism
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 6
+  HP: 52
+  Aura of Protection:
+    Whenever you or a friendly creature within 10ft
+    make a saving throw,
+    the creature adds your CHA modifier to the saving throw.
+    You must be concious for this aura.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    2
+    Attack: +7
+    Save DC: 15
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+    Prepared Spells: 7
+      Bless
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Heroism
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 7
+  HP: 60
+  Sacred Oath: Oath of Devotion
+    Aura of Devotion: you and friendly creatures within 10 ft of you cannot be charmed while you are concious
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3
+    Attack: +7
+    Save DC: 15
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+    Prepared Spells: 7
+      Bless
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Heroism
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 8
+  STR   DEX   CON   INT   WIS   CHA
+   18    10    14     9    12    18
+   +4     0    +2    -1    +1    +4
+  HP: 68
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +7
+    Damage: 1d8 + 4 Slash
+  Mace:
+    Attack: +7
+    Damage: 1d6 + 4 Bludgeoning
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3
+    Attack: +7
+    Save DC: 15
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+    Prepared Spells: 8
+      Bless
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Heroism
+      Protection from Poison
+      Shield of Faith
+      Thunderous Smite
+
+Paladin Level 9
+  Proficiencies: WIS(+5) CHA(+8) Insight(+5) Religion(+3)
+  HP: 76
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +8
+    Damage: 1d8 + 4 Slash
+  Mace:
+    Attack: +8
+    Damage: 1d6 + 4 Bludgeoning
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    2
+    Attack: +8
+    Save DC: 16
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+    Prepared Spells: 8
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Thunderous Smite
+      Revivify
+      Crusader's Mantle
+      Daylight
+
+Paladin Level 10
+  HP: 84
+  Aura of Courage: You and friendly creatures within 10ft can't be frightened while you are conscious.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    2
+    Attack: +8
+    Save DC: 16
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+    Prepared Spells: 9
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Thunderous Smite
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+
+Paladin Level 11
+  HP: 92
+  Improved Divine Smite: Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use Divine Smite with an attack, you add this damage to the extra damage of Divine Smite.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3
+    Attack: +8
+    Save DC: 16
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+    Prepared Spells: 9
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Thunderous Smite
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+
+Paladin Level 12
+  STR   DEX   CON   INT   WIS   CHA
+   18    10    16     9    12    18
+   +4     0    +3    -1    +1    +4
+  HP: 112
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3
+    Attack: +8
+    Save DC: 16
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+    Prepared Spells: 10
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Thunderous Smite
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+
+Paladin Level 13
+  Proficiencies: WIS(+6) CHA(+9) Insight(+6) Religion(+4)
+  HP: 121
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +9
+    Damage: 1d8 + 4 Slash
+  Mace:
+    Attack: +9
+    Damage: 1d6 + 4 Bludgeoning
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    1
+    Attack: +9
+    Save DC: 17
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+    Prepared Spells: 10
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+
+Paladin Level 14
+  HP: 130
+  Cleansing Touch: [(CHA Modifier) Per Long Rest]
+    You can use your action to end one spell on yoursel for or on one willing creature that you touch.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    1
+    Attack: +9
+    Save DC: 17
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+    Prepared Spells: 11
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+
+Paladin Level 15
+  HP: 139
+  Sacred Oath: Oath of Devotion
+    Purity of Spirit: You are always under the effects of Protection From Evil And Good
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2
+    Attack: +9
+    Save DC: 17
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+    Prepared Spells: 11
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+
+Paladin Level 16
+  STR   DEX   CON   INT   WIS   CHA
+   18    10    16     9    12    20
+   +4     0    +3    -1    +1    +5
+  Proficiencies: CHA(+10)
+  HP: 148
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2
+    Attack: +10
+    Save DC: 18
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+    Prepared Spells: 13
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+      Aura of Life
+      Banishment
+
+Paladin Level 17
+  Proficiencies: WIS(+7) CHA(+10) Insight(+7) Religion(+5)
+  HP: 157
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +10
+    Damage: 1d8 + 4 Slash
+  Mace:
+    Attack: +10
+    Damage: 1d6 + 4 Bludgeoning
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2    1
+    Attack: +11
+    Save DC: 19
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+      Commune
+      Flame Strike
+    Prepared Spells: 13
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+      Aura of Life
+      Banishing Smite
+
+Paladin Level 18
+  HP: 165
+  Aura Improvement: Auras of Protection, Courage, and Devotion have a 30ft radius
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2    1
+    Attack: +11
+    Save DC: 19
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+      Commune
+      Flame Strike
+    Prepared Spells: 14
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+      Aura of Life
+      Banishing Smite
+      Raise Dead
+
+Paladin Level 19
+  STR   DEX   CON   INT   WIS   CHA
+   20    10    16     9    12    20
+   +5     0    +3    -1    +1    +5
+  HP: 174
+  Holy Symbol: Emblem of Lionnell
+  Longsword:
+    Attack: +11
+    Damage: 1d8 + 5 Slash
+  Mace:
+    Attack: +11
+    Damage: 1d6 + 5 Bludgeoning
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2    2
+    Attack: +11
+    Save DC: 19
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+      Commune
+      Flame Strike
+    Prepared Spells: 14
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+      Aura of Life
+      Banishing Smite
+      Raise Dead
+
+Paladin Level 20
+  Sacred Oath: Oath of Devotion
+    Holy Nimbus: [Once Per Long Rest]
+      As an action, you can emanate an aura of sunlight.
+      For 1 min, bright light shines from you in a 30ft radius, and dim light for another 30ft.
+      Enemy creatures that start a turn in the bright light, take 10 radiant damage.
+      For the duration, you have advantage on saving throws against spells cast by fiends or undead.
+  Spellcasting:
+      1st  2nd  3rd  4th  5th
+       4    3    3    2    2
+    Attack: +11
+    Save DC: 19
+    Oath Spells:
+      Protection from Evil and Good
+      Sanctuary
+      Lesser Restoration
+      Zone of Truth
+      Beacon of Hope
+      Dispel Magic
+      Freedom of Movement
+      Guardian of Faith
+      Commune
+      Flame Strike
+    Prepared Spells: 15
+      Branding Smite
+      Compelled Duel
+      Divine Favor
+      Shield of Faith
+      Revivify
+      Crusader's Mantle
+      Daylight
+      Blinding Smite
+      Remove Curse
+      Staggering Smite
+      Death Ward
+      Aura of Life
+      Banishing Smite
+      Raise Dead
+      Destructive Smite

@@ -1,0 +1,146 @@
+Private
+Fighter Level 3
+  STR   DEX   CON   INT   WIS   CHA
+   16    14    16    10    11    10
+   +3    +2    +3     0     0     0
+
+  Proficiencies: STR(+5) CON(+5) Athletics(+5) Insight(+2)
+  Disadvantage: Stealth
+
+  HP: 12
+  AC: 18: Chainmail + Shield
+
+  Longsword:
+    Attack: +5
+    Damage: 1d8 + 5 Slash
+  Light Crossbow: 20 Bolts
+    Attack: +4
+    Damage: 1d8 + 2 Pierce
+
+  Fighting Style: Dueling
+  Second Wind: [Once Per Rest] Heal 1d10 + 1 HP
+  Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+  Martial Archetype: Champion
+    Improved Critical: Attack Critical Hits trigger on a roll of 19 or 20
+
+----------------------------------------
+
+Sergeant
+Fighter Level 5
+  STR   DEX   CON   INT   WIS   CHA
+   17    14    16    10    12    10
+   +3    +2    +3     0    +1     0
+
+  Proficiencies: STR(+6) CON(+6) Athletics(+6) Insight(+4)
+  Disadvantage: Stealth
+
+  HP: 49
+  AC: 18: Chainmail + Shield
+
+  Longsword:
+    Attack: +6
+    Damage: 1d8 + 5 Slash
+  Light Crossbow: 20 Bolts
+    Attack: +5
+    Damage: 1d8 + 2 Pierce
+
+  Fighting Style: Dueling
+  Second Wind: [Once Per Rest] Heal 1d10 + [Fighter Level] HP
+  Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+  Extra Attack: 2 attacks are made during the attack action
+  Martial Archetype: Champion
+    Improved Critical: Attack Critical Hits trigger on a roll of 19 or 20
+
+----------------------------------------
+
+Lieutenant
+Fighter Level 8
+  STR   DEX   CON   INT   WIS   CHA
+   19    14    18    10    12    10
+   +4    +2    +4     0    +1     0
+
+  Proficiencies: STR(+7) CON(+7) Athletics(+7) Insight(+4)
+  Disadvantage: Stealth
+
+  HP: 75
+  AC: 18: Chainmail + Shield
+
+  Longsword:
+    Attack: +7
+    Damage: 1d8 + 6 Slash
+  Light Crossbow: 20 Bolts
+    Attack: +5
+    Damage: 1d8 + 2 Pierce
+
+  Fighting Style: Dueling
+  Second Wind: [Once Per Rest] Heal 1d10 + [Fighter Level] HP
+  Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+  Extra Attack: 2 attacks are made during the attack action
+  Martial Archetype: Champion
+    Improved Critical: Attack Critical Hits trigger on a roll of 19 or 20
+    Remarkable Athlete: add 1/2 prof (round up) to any STR, DEX, CON check that does not use prof
+      Long Jump Distance = STR Score + STR Modifier ft.
+
+----------------------------------------
+
+Captain
+Fighter Level 10
+  STR   DEX   CON   INT   WIS   CHA
+   19    14    18    10    12    10
+   +4    +2    +4     0    +1     0
+
+  Proficiencies: STR(+8) CON(+8) Athletics(+8) Insight(+5)
+  Disadvantage: Stealth
+
+  HP: 95
+  AC: 19: Chainmail + Shield + Defense
+
+  Longsword:
+    Attack: +8
+    Damage: 1d8 + 6 Slash
+  Light Crossbow: 20 Bolts
+    Attack: +6
+    Damage: 1d8 + 2 Pierce
+
+  Fighting Style: Dueling
+  Second Wind: [Once Per Rest] Heal 1d10 + [Fighter Level] HP
+  Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+  Indomitable: [Once Per Long Rest] Reroll a failed saving throw.
+  Extra Attack: 2 attacks are made during the attack action
+  Martial Archetype: Champion
+    Additional Fighting Style: Defense
+    Improved Critical: Attack Critical Hits trigger on a roll of 19 or 20
+    Remarkable Athlete: add 1/2 prof (round up) to any STR, DEX, CON check that does not use prof
+      Long Jump Distance = STR Score + STR Modifier ft.
+
+----------------------------------------
+
+General
+Fighter Level 15
+  STR   DEX   CON   INT   WIS   CHA
+   20    16    18    11    12    10
+   +5    +3    +4     0    +1     0
+
+  Proficiencies: STR(+10) CON(+9) Athletics(+10) Insight(+6)
+  Disadvantage: Stealth
+
+  HP: 145
+  AC: 20: Splint + Shield + Defense
+
+  Longsword +1:
+    Attack: +11
+    Damage: 1d8 + 8 Slash
+  Light Crossbow +1: 20 Bolts
+    Attack: +9
+    Damage: 1d8 + 4 Pierce
+
+  Fighting Style: Dueling
+  Second Wind: [Once Per Rest] Heal 1d10 + [Fighter Level] HP
+  Action Surge: [Once Per Rest] 1 additional action and 1 additional bonus action
+  Indomitable: [Twice Per Long Rest] Reroll a failed saving throw.
+  Extra Attack: 3 attacks are made during the attack action
+  Martial Archetype: Champion
+    Additional Fighting Style: Defense
+    Superior Critical: Attack Critical Hits trigger on a roll of 18 or 19 or 20
+    Remarkable Athlete: add 1/2 prof (round up) to any STR, DEX, CON check that does not use prof
+      Long Jump Distance = STR Score + STR Modifier ft.

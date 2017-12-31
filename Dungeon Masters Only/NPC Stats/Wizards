@@ -1,0 +1,653 @@
+Wizard Level 1
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    14    16    16    10
+   -1    +1    +2    +3    +3     0
+  Proficiencies: INT(+5) WIS(+5) Arcana(+5) History(+5)
+  HP: 8
+  AC: 11
+  Arcane Focus: Staff
+  Spellbook
+  Dagger 20/60:
+    Attack: +3
+    Damage: 1d4 + 1 Pierce
+  Arcave Recovery: [Once Per Long Rest] Study your Spellbook.
+    After finishing a Rest
+    you can choose Expended Spell Slots to Recover.
+    Recovered Spell Slots can have a combined level <= half your Wizard LVL (rounded up) and < 6th LVL Spell Slot
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        3     2
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+    Spells 4:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+
+Wizard Level 2
+  HP: 14
+  Arcane Tradition: School of Evocation [Varies]
+    Evocation Savant: Gold and Time to copy an evocation spell into your spellbook is halved.
+    Sculpt Spells: For Evocation AOE spells, choose a number of creatures up to 1 + spell's level which automatically pass their saving throws and do not take damage.
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        3     3
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+    Spells 5:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+
+Wizard Level 3
+  HP: 20
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        3     4    2
+    Attack: +5
+    Save DC: 13
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+    Spells 6:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+
+Wizard Level 4
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    14    18    16    10
+   -1    +1    +2    +4    +3     0
+  Proficiencies: INT(+6) Arcana(+6) History(+6)
+  HP: 26
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3
+    Attack: +6
+    Save DC: 14
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 8:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+
+Wizard Level 5
+  Proficiencies: INT(+7) WIS(+6) Arcana(+7) History(+7)
+  HP: 32
+  Dagger 20/60:
+    Attack: +4
+    Damage: 1d4 + 1 Pierce
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3    2
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 9:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+
+Wizard Level 6
+  HP: 38
+  Arcane Tradition: School of Evocation [Varies]
+    Potent Cantrip: Creaturs that succeed on saving throws against your cantrip still take half the spell damage.
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3    3
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 10:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+
+Wizard Level 7
+  HP: 44
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3    3    1
+    Attack: +7
+    Save DC: 15
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 11:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+
+Wizard Level 8
+  STR   DEX   CON   INT   WIS   CHA
+    9    12    14    20    16    10
+   -1    +1    +2    +5    +3     0
+  Proficiencies: INT(+8) Arcana(+8) History(+8)
+  HP: 50
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3    3    2
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 13:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+
+Wizard Level 9
+  Proficiencies: INT(+9) WIS(+7) Arcana(+9) History(+9)
+  HP: 56
+  Dagger 20/60:
+    Attack: +5
+    Damage: 1d4 + 1 Pierce
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        4     4    3    3    3    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+    Spells 14:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+
+Wizard Level 10
+  HP: 62
+  Arcane Tradition: School of Evocation [Varies]
+    Empowered Evocation: +INT Modifier to Damage Roll of any Wizard Evocation you cast
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 15:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+
+Wizard Level 11
+  HP: 68
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 16:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+
+Wizard Level 12
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    14    20    16    10
+   -1    +2    +2    +5    +3     0
+  HP: 74
+  AC: 12
+  Dagger 20/60:
+    Attack: +6
+    Damage: 1d4 + 2 Pierce
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 17:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+
+Wizard Level 13
+  Proficiencies: INT(+10) WIS(+8) Arcana(+10) History(+10)
+  HP: 80
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 18:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+
+Wizard Level 14
+  HP: 86
+  Arcane Tradition: School of Evocation [Varies]
+    Overchannel: Wizard spell cast of 5th level or lower, deal its maximum damage
+      [Once Per Long Rest] No adverse affects
+      [Additional Times] Suffer 2d12 (+ 1d12 each addtional time) necrotic damage ignoring resistance and immunities
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 19:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+
+Wizard Level 15
+  HP: 92
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 20:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+
+Wizard Level 16
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    14    20    18    10
+   -1    +2    +2    +5    +4     0
+  Proficiencies: WIS(+9)
+  HP: 98
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1    1
+    Attack: +8
+    Save DC: 16
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 21:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+      Antimagic Field
+
+Wizard Level 17
+  Proficiencies: INT(+11) WIS(+10) Arcana(+11) History(+11)
+  HP: 104
+  Dagger 20/60:
+    Attack: +6
+    Damage: 1d4 + 2 Pierce
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    2    1    1    1    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 22:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+      Antimagic Field
+      Meteor Swarm
+
+Wizard Level 18
+  HP: 110
+  Spell Mastery: This 1st LVL and 2nd LVL spell can be cast at their lowest level without expending a spell slot
+    1st LVL: Burning Hands
+    2nd LVL: Gust of Wind
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    1    1    1    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 23:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+      Antimagic Field
+      Meteor Swarm
+      Power Word Kill
+
+Wizard Level 19
+  STR   DEX   CON   INT   WIS   CHA
+    9    14    16    20    18    10
+   -1    +2    +3    +5    +4     0
+  HP: 135
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    2    1    1    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 24:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+      Antimagic Field
+      Meteor Swarm
+      Power Word Kill
+      Remove Curse
+
+Wizard Level 20
+  HP: 142
+  Signature Spells: These 3rd LVL Spells are always prepared and do not count towards the prepared limit.
+    [Once Per Day] Each can be cast at 3rd LVL once without expending a spell lot.
+    3rd LVL Spells: Fireball, Fly
+  Spellcasting:
+    Cantrips 1st  2nd  3rd  4th  5th  6th  7th  8th  9th
+        5     4    3    3    3    3    2    2    1    1
+    Attack: +9
+    Save DC: 17
+    Cantrips:
+      Mage Hand
+      Prestidigitation
+      Fire Bolt
+      Light
+      Shocking Grasp
+    Spells 25:
+      Burning Hands
+      Grease
+      Unseen Servant
+      Identify
+      Tasha's Hideous Laughter
+      Gust of Wind
+      Hold Person
+      Scorching Ray
+      Lightning Bolt
+      Sleet Storm
+      Fire Shield
+      Stoneskin
+      Evard's Black Tentacles
+      Cone of Cold
+      Teleportation Circle
+      Chain Lightning
+      True Seeing
+      Prismatic Spray
+      Finger of Death
+      Sunburst
+      Antimagic Field
+      Meteor Swarm
+      Power Word Kill
+      Remove Curse
+      Time Stop

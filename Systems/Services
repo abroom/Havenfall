@@ -11,11 +11,13 @@ Coach cab
   Between towns     3 CP per mile
   Within a city     1 CP
 Hireling
-  Skilled           2 GP per day
-  Untrained         2 SP per day
+  Skilled           2 GP per week (per day if complicated task)
+  Untrained         2 SP per week (per day if complicated task)
 Messenger           2 CP per mile
 Road or gate toll   1 CP
-Ship’s passage      1 SP  per mile
+Ship's passage      1 SP  per mile
+Ship's berth       10 GP per day
+Ship's mooring      1 GP per day
 
 Skilled Hirelings
   Anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill)
